@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fed85a98-064c-2e2a-4378-f3f7549df9b8
 title: Problem Set 8
 uid: 886c29bc-019f-1cb1-819c-7e00a0f86173
@@ -15,7 +19,7 @@ As you work you should have pencil and paper handy for calculations and thinking
 
 Note: some questions ask for a formula. For the checker we ask you to plug a value into the formula. For your pset you still need to give the whole formula.
 
-//DEBUG PARAMETERS //Because we don't show solutions for pset checkers we use //this to give a showanswer button during the debugging phase var debugans = undefined; //release //var debugans = kDebugAnswer; //debug problemNumber = 0; wl("<h3>Calculator</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
+//DEBUG PARAMETERS //Because we don't show solutions for pset checkers we use //this to give a showanswer button during the debugging phase var debugans = undefined; //release //var debugans = kDebugAnswer; //debug problemNumber = 0; wl("\<h3>Calculator\</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
 
 //Problem 1 problemNumber++; wl(problemheader(problemNumber)); wl(''); var s; var partName, problemName, buttonLabel, answerArray, correct; s = "(a) Hint: the rejection region is one-sided."; wl(s); wl(kp); s = "(a.i) Give smallest value in the rejection region"; wl(s); wl(kp); partName = problemNumber + " (a.i)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0, buttonLabel, 0.001, debugans); wl(kp); s = "(a.ii) Give largest value in the rejection region"; wl(s); wl(kp); partName = problemNumber + " (a.ii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 2, buttonLabel, 0.001, debugans); wl(kp); s = "(a.iii) Give the $p$-value"; wl(s); wl(kp); partName = problemNumber + " (a.iii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", .072998, buttonLabel, 0.001, debugans); wl(kp); s = "(b.i) Give smallest value in the rejection region"; wl(s); wl(kp); partName = problemNumber + " (b.i)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 9, buttonLabel, 0.001, debugans); wl(kp); s = "(b.ii) Give the $p$-value"; wl(s); wl(kp); partName = problemNumber + " (b.ii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", .032715, buttonLabel, 0.001, debugans); wl(kp); s = "(c) " + knoonlinecheck; wl(s); wl(kp); wl(kbr); s = "(d) " + knoonlinecheck; wl(s); wl(kp); wl(kbr); s = "(e) " + knoonlinecheck; wl(s); wl(kp); wl(kbr); whr(kdivcol,kdivwid);
 

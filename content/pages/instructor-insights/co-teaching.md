@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: Co-Teaching
 uid: bcc7c9ac-7b81-71b2-3cc4-5d69d98f83cd

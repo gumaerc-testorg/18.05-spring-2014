@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-05-introduction-to-probability-and-statistics-spring-2014/09b5fbbceb74b3592a5a6590d64ee6ec_gallery2-1.jpg
+file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/09b5fbbceb74b3592a5a6590d64ee6ec_gallery2-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Students were expected to complete assigned readings and reading questions
@@ -17,6 +17,8 @@ image_metadata:
   credit: Image courtesy of OCW.
   image-alt: An instructor points at a projector screen showing a slide and addresses
     students, who are sitting at round tables.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Image 2-1
 uid: 09b5fbbc-eb74-b359-2a5a-6590d64ee6ec

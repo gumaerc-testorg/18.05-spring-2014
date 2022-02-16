@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: Targeted Readings and Online Reading Questions
 uid: c087d0ea-b9b0-a8e6-9867-02428a46325e

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 ---
@@ -95,24 +97,6 @@ Calculus I GIR ![](/images/educator/icon-question-gir.png). The following versio
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-{{< anchor "The Classroom" >}}{{< /anchor >}}The Classroom
-----------------------------------------------------------
-
-*   ![A 3d visualization of a large rectangular classroom, with 13 round tables each surrounded by 9 chairs. Projector screens and white boards lines the walls.]({{< resource_file 19a09206-f86f-d3a4-56dc-d8fb0461b8d2 >}})
-    
-    ![](/images/educator/classroom_prev.png) Photo 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    The class met in a classroom equipped for Technology-Enabled Active Learning (TEAL). The classroom includes 13 round tables, each of which seats up to 9 students. The seating arrangement invites collaboration and discussion, which are key in _18.05_ (Image courtesy of Mark Bessette).
-    
-*   ![Groups of students work at white boards around the classroom; three projector screens display the same math problem. The center of the room is filled with round tables that are surrounded with chairs. Numerous projectors and cameras are mounted from the ceiling.]({{< resource_file 8cf186a6-d742-b3f3-1ecc-35e410fb4c8b >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Photo 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    The walls of the classroom are lined with white boards and screens. Cameras and projectors are arranged such that slides and live activity at any white board can be captured and projected onto screens around the room. Desktop computers were available but were not used.
-    
 
 {{< anchor "grading" >}}{{< /anchor >}}
 

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fed85a98-064c-2e2a-4378-f3f7549df9b8
 title: Problem Set 9
 uid: 4629d5ca-97c5-9395-20d0-8364ac7804ce
@@ -15,7 +19,7 @@ As you work you should have pencil and paper handy for calculations and thinking
 
 Note: some questions ask for a formula. For the checker we ask you to plug a value into the formula. For your pset you still need to give the whole formula.
 
-//DEBUG PARAMETERS //Because we don't show solutions for pset checkers we use //this to give a showanswer button during the debugging phase var debugans = undefined; //release //var debugans = kDebugAnswer; //debug problemNumber = 0; wl("<h3>Calculator</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
+//DEBUG PARAMETERS //Because we don't show solutions for pset checkers we use //this to give a showanswer button during the debugging phase var debugans = undefined; //release //var debugans = kDebugAnswer; //debug problemNumber = 0; wl("\<h3>Calculator\</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
 
 //Problem 1 problemNumber++; wl(problemheader(problemNumber)); wl(''); var s; var partName, problemName, buttonLabel, answerArray, correct; s = "(a) " + knoonlinecheck; wl(s); wl(kp); wl(kbr); s = "(b.i) Give the lower limit of the 80% confidence interval."; wl(s); wl(kp); partName = problemNumber + " (b.i)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.51947, buttonLabel, 0.002, debugans); wl(kp); s = "(b.ii) Give the upper limit of the 80% confidence interval."; wl(s); wl(kp); partName = problemNumber + " (b.ii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.60052, buttonLabel, 0.002, debugans); wl(kp); s = "(b.iii) Give the lower limit of the 95% confidence interval."; wl(s); wl(kp); partName = problemNumber + " (b.iii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.497, buttonLabel, 0.005, debugans); wl(kp); s = "(b.iv) Give the upper limit of the 95% confidence interval."; wl(s); wl(kp); partName = problemNumber + " (b.iv)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.622, buttonLabel, 0.005, debugans); wl(kp); s = "(c.i) Give the lower limit of the 80% posterior probability interval."; wl(s); wl(kp); partName = problemNumber + " (c.i)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.5194, buttonLabel, 0.005, debugans); wl(kp); s = "(c.ii) Give the upper limit of the 80% posterior probability interval."; wl(s); wl(kp); partName = problemNumber + " (c.ii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.5995, buttonLabel, 0.005, debugans); wl(kp); whr(kdivcol,kdivwid);
 

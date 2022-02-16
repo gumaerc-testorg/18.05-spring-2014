@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: Revamping the Course
 uid: 6360453c-ee3b-ccd6-8cb8-519ceb0c334c

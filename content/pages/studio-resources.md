@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Studio Resources
 uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 ---
@@ -81,7 +83,7 @@ S2
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 S3
 {{< tdclose >}}
 {{< tdopen colspan="4" >}}

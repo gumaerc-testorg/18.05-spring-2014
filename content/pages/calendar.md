@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 34f1a99d-c912-2193-c437-231b1fc08afe
 ---
@@ -38,7 +40,7 @@ PROBLEM SETS
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -69,7 +71,7 @@ Introduction, counting and sets
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit18_05s14_ps1)
@@ -129,7 +131,7 @@ Birthday matches; Introduction to R
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -156,7 +158,7 @@ Conditional probability, Bayes' theorem
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit18_05s14_ps2)
@@ -218,7 +220,7 @@ Expectation; Simulation using R
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -249,7 +251,7 @@ Variance, continuous random variables
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_05s14_ps3)
@@ -294,7 +296,7 @@ Gallery of continuous variables, histograms
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -327,7 +329,7 @@ Expectation, variance, law of large numbers and central limit theorem
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit18_05s14_ps4)
@@ -387,7 +389,7 @@ Covariance, correlation, CLT
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -481,7 +483,7 @@ Introduction to statistics; maximum likelihood estimates
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -508,7 +510,7 @@ Bayesian updating with known discrete priors
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit18_05s14_ps5)
@@ -568,7 +570,7 @@ Bayesian updating
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -597,7 +599,7 @@ Bayesian updating: continuous prior, discrete data
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
  
 {{< tdclose >}}
 
@@ -647,7 +649,7 @@ Continuous data, continuous priors
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -676,7 +678,7 @@ Conjugate priors; choosing priors
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit18_05s14_ps6)
@@ -740,7 +742,7 @@ No studio
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -769,7 +771,7 @@ Frequentist methods; NHST
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit18_05s14_ps7)
@@ -825,7 +827,7 @@ Rejection regions; NHST
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -852,7 +854,7 @@ NHST III: Gallery of tests
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit18_05s14_ps8)
@@ -902,7 +904,7 @@ NHST; comparing frequentist and Bayesian methods
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -923,7 +925,7 @@ Review for exam 2
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -950,7 +952,7 @@ Exam 2
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -977,7 +979,7 @@ Confidence intervals for normal data
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit18_05s14_ps9)
@@ -1033,7 +1035,7 @@ Confidence intervals III
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -1060,7 +1062,7 @@ Bootstrap confidence intervals
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
  
 {{< tdclose >}}
 
@@ -1108,7 +1110,7 @@ Bootstrapping; linear regression
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
@@ -1131,7 +1133,7 @@ Review for final exam
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 

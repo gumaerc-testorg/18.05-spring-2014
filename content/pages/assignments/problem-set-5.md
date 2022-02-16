@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fed85a98-064c-2e2a-4378-f3f7549df9b8
 title: Problem Set 5
 uid: 7518f0aa-1ee3-15ca-255f-4350b490bee3
@@ -15,7 +19,7 @@ As you work you should have pencil and paper handy for calculations and thinking
 
 Note: some questions ask for a formula. For the checker we ask you to plug a value into the formula. For your pset you still need to give the whole formula.
 
-//DEBUG PARAMETERS //Because we don't show solutions for pset checkers we use //this to give a showanswer button during the debugging phase var debugans = undefined; //release //var debugans = kDebugAnswer; //debug problemNumber = 0; wl("<h3>Calculator</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
+//DEBUG PARAMETERS //Because we don't show solutions for pset checkers we use //this to give a showanswer button during the debugging phase var debugans = undefined; //release //var debugans = kDebugAnswer; //debug problemNumber = 0; wl("\<h3>Calculator\</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
 
 //Problem 1 problemNumber++; wl(problemheader(problemNumber)); wl(''); var s; var partName, problemName, buttonLabel, answerArray, correct; s = "(a) " + knoonlinecheck; wl(s); wl(kp); wl(kbr); s = "(b) " + knoonlinecheck; wl(s); wl(kp); wl(kbr); s = "(c.1) Give your value for $a$."; wl(s); wl(kp); partName = problemNumber + " (c.1)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", -1.75, buttonLabel, 0.005, debugans); wl(kp); s = "(c.2) Give your value for $b$."; wl(s); wl(kp); partName = problemNumber + " (c.2)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 8.916667, buttonLabel, 0.005, debugans); wl(kp); whr(kdivcol,kdivwid);
 

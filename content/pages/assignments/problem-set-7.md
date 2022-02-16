@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fed85a98-064c-2e2a-4378-f3f7549df9b8
 title: Problem Set 7
 uid: 0e50cd86-d76e-397c-976c-c37ad69640f9
@@ -15,7 +19,7 @@ As you work you should have pencil and paper handy for calculations and thinking
 
 Note: some questions ask for a formula. For the checker we ask you to plug a value into the formula. For your pset you still need to give the whole formula.
 
-//DEBUG PARAMETERS //Because we don't show solutions for pset checkers we use //this to give a showanswer button during the debugging phase var debugans = undefined; //release //var debugans = kDebugAnswer; //debug problemNumber = 0; wl("<h3>Calculator</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
+//DEBUG PARAMETERS //Because we don't show solutions for pset checkers we use //this to give a showanswer button during the debugging phase var debugans = undefined; //release //var debugans = kDebugAnswer; //debug problemNumber = 0; wl("\<h3>Calculator\</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
 
 //Problem 1 problemNumber++; wl(problemheader(problemNumber)); wl(''); var s; var partName, problemName, buttonLabel, answerArray, correct; s = "(a.i)} Give the exact (binomial) one-sided $p$-value for the data."; wl(s); wl(kp); partName = problemNumber + " (a.i)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.03321, buttonLabel, 0.001, debugans); wl(kp); s = "(a.ii) Give the exact (binomial) two-sided $p$-value for the data."; wl(s); wl(kp); partName = problemNumber + " (a.ii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.06642, buttonLabel, 0.001, debugans); wl(kp); s = "(b) " + knoonlinecheck; wl(s); wl(kp); wl(kbr); s = emphtext("For parts c-e use a two-sided rejection region."); wl(s); wl(kp); s = "(c) How many heads would you need to reject at $&alpha; = 0.01$?"; wl(s); wl(kp); s = "(c.i) Less than or equal to:"; wl(s); wl(kp); partName = problemNumber + " (c.i)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 104, buttonLabel, 0.001, debugans); wl(kp); s = "(c.ii) More than or equal to:"; wl(s); wl(kp); partName = problemNumber + " (c.ii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 146, buttonLabel, 0.001, debugans); wl(kp); s = "(d.i) What's the power when $&alpha; = 0.05$ for $&theta; = 0.55$?"; wl(s); wl(kp); partName = problemNumber + " (d.i)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", .35237, buttonLabel, 0.001, debugans); wl(kp); s = "(d.ii) What's the power when $&alpha; = 0.05$ for $&theta; = 0.6$?"; wl(s); wl(kp); partName = problemNumber + " (d.ii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", .88963, buttonLabel, 0.001, debugans); wl(kp); s = "(e) How many spins with $&alpha; = 0.05$ to have power $0.9$ when $&theta; = 0.55$?"; wl(s); wl(kp); partName = problemNumber + " (e)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 1055, buttonLabel, 0.1, debugans); wl(kp); s = "(f) What's the posterior probability of $&theta; = 0.55$?"; wl(s); wl(kp); partName = problemNumber + " (f)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", .85243, buttonLabel, 0.001, debugans); wl(kp); s = "(g) " + knoonlinecheck; wl(s); wl(kp); wl(kbr); whr(kdivcol,kdivwid);
 

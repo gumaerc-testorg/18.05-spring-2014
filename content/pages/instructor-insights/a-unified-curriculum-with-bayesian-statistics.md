@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: A Unified Curriculum with Bayesian Statistics
 uid: e612a220-f47d-26cb-1df4-1379920545d8

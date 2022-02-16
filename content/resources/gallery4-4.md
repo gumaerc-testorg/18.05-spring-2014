@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-05-introduction-to-probability-and-statistics-spring-2014/e791a63cd86f2da9c9fc5efdb6b2f341_gallery4-4.jpg
+file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/e791a63cd86f2da9c9fc5efdb6b2f341_gallery4-4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Every class was staffed with two instructors and three assistants (one
@@ -20,6 +20,10 @@ image_metadata:
     focus the problem sets on challenging problems.'
   credit: Image courtesy of OCW.
   image-alt: An instructor and a student work together at a whiteboard.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Board Problems
+parent_type: CourseSection
 resourcetype: Image
 title: Image 4
 uid: e791a63c-d86f-2da9-c9fc-5efdb6b2f341

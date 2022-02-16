@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-05-introduction-to-probability-and-statistics-spring-2014/6525d0e9d7a6a5d4ae6eb7b45d2f4bc4_gallery2-2.jpg
+file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/6525d0e9d7a6a5d4ae6eb7b45d2f4bc4_gallery2-2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'The walls of our [Technology-Enabled Active Learning classroom](http://web.mit.edu/edtech/casestudies/teal.html)
@@ -20,6 +20,10 @@ image_metadata:
   image-alt: 'An instructor writes on a whiteboard while students look on. The instructor
     is captured by a ceiling-mounted camera and live-streamed on screens around the
     classroom. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture
+parent_type: CourseSection
 resourcetype: Image
 title: Image 2
 uid: 6525d0e9-d7a6-a5d4-ae6e-b7b45d2f4bc4

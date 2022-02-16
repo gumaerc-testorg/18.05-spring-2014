@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-05-introduction-to-probability-and-statistics-spring-2014/32b355cd881c2d8bd0e11c0d6f962667_gallery1-1.jpg
+file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/32b355cd881c2d8bd0e11c0d6f962667_gallery1-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'This course served as an elementary introduction to probability and statistics
@@ -13,6 +13,8 @@ image_metadata:
   credit: Image courtesy of OCW.
   image-alt: Four students sitting at a table look up at a project screen that is
     showing a comic.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Image 1-1
 uid: 32b355cd-881c-2d8b-d0e1-1c0d6f962667

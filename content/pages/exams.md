@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: ad95d694-8a5a-21e8-d68c-2ed80b877e38
 ---
@@ -23,7 +26,7 @@ SOLUTIONS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -62,7 +65,7 @@ SOLUTIONS
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -83,7 +86,7 @@ SOLUTIONS
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Final
 {{< tdclose >}}
 {{< tdopen >}}
