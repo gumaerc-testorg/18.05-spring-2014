@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 25 Slides: Linear regression'
 uid: c352da67-6eb4-c72d-00d5-9215e6924cce

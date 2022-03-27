@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Studio 1 Slides with Solutions: Birthday matches'
 uid: 0a30d639-a3b9-977d-99f0-5c059eb69af3

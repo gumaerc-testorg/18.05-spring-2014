@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 10 Slides: Introduction to statistics; maximum likelihood estimates'
 uid: 57f41e99-bfd8-1ca0-1a80-46efc904eaf2

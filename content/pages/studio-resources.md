@@ -33,7 +33,7 @@ POST-CLASS SLIDES
 S1
 {{< tdclose >}}
 {{< tdopen >}}
-[Studio 1 Plan (TXT)](./resolveuid/c056d700886880f9b42ca44af9707bc1)
+[Studio 1 Plan (TXT)]({{< baseurl >}}/resources/studio1outline)
 {{< tdclose >}}
 {{< tdopen >}}
 [Birthday matches; Introduction to R (PDF)]({{< baseurl >}}/resources/mit18_05s14_studio1_slides)
@@ -57,7 +57,7 @@ S1
 S2
 {{< tdclose >}}
 {{< tdopen >}}
-[Studio 2 Plan (TXT)](./resolveuid/5df57f8dfbfd3c93c687d0462026c620)
+[Studio 2 Plan (TXT)]({{< baseurl >}}/resources/studio2outline)
 {{< tdclose >}}
 {{< tdopen >}}
 [Expectation; Simulation using R (PDF)]({{< baseurl >}}/resources/mit18_05s14_studio2_slides)
@@ -100,7 +100,7 @@ This studio is split between a continuation of class 5 and a standard studio. Th
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Studio 3 Plan (TXT)](./resolveuid/965abb78880c26c231f155126bd1daef)
+[Studio 3 Plan (TXT)]({{< baseurl >}}/resources/studio3outline)
 {{< tdclose >}}
 {{< tdopen >}}
 [Gallery of continuous variables; histograms (PDF)]({{< baseurl >}}/resources/mit18_05s14_studio3_slides)
@@ -118,7 +118,7 @@ This studio is split between a continuation of class 5 and a standard studio. Th
 S4
 {{< tdclose >}}
 {{< tdopen >}}
-[Studio 4 Plan (TXT)](./resolveuid/79dc82ad7707959a12f47fced61b5809)
+[Studio 4 Plan (TXT)]({{< baseurl >}}/resources/studio4outline)
 {{< tdclose >}}
 {{< tdopen >}}
 [Covariance, correlation, CLT (PDF)]({{< baseurl >}}/resources/mit18_05s14_studio4_slides)
@@ -136,7 +136,7 @@ S4
 S5
 {{< tdclose >}}
 {{< tdopen >}}
-[Studio 5 Plan (TXT)](./resolveuid/8547b5d6707a3d9cb3a88886e8e18847)
+[Studio 5 Plan (TXT)]({{< baseurl >}}/resources/studio5outline)
 {{< tdclose >}}
 {{< tdopen >}}
 [Bayesian updating (PDF)]({{< baseurl >}}/resources/mit18_05s14_studio5_slides)
@@ -154,7 +154,7 @@ S5
 S6
 {{< tdclose >}}
 {{< tdopen >}}
-[Studio 6 Plan (TXT)](./resolveuid/f9bb429e70594b850039fefd44716eb5)
+[Studio 6 Plan (TXT)]({{< baseurl >}}/resources/studio6outline)
 {{< tdclose >}}
 {{< tdopen >}}
 [Continuous data, continuous priors (PDF)]({{< baseurl >}}/resources/mit18_05s14_studio6_slides)
@@ -181,7 +181,7 @@ No studio
 S8
 {{< tdclose >}}
 {{< tdopen >}}
-[Studio 8 Plan (TXT)](./resolveuid/5f079298febbfa2d95cb122375cbd73e)
+[Studio 8 Plan (TXT)]({{< baseurl >}}/resources/studio8outline)
 {{< tdclose >}}
 {{< tdopen >}}
 [Rejection regions; NHST (PDF)]({{< baseurl >}}/resources/mit18_05s14_studio8_slides)  
@@ -200,7 +200,7 @@ S8
 S9
 {{< tdclose >}}
 {{< tdopen >}}
-[Studio 9 Plan (TXT)](./resolveuid/9b77f2fb939bc61fbc578a01c8711c73)
+[Studio 9 Plan (TXT)]({{< baseurl >}}/resources/studio9outline)
 {{< tdclose >}}
 {{< tdopen >}}
 [NHST; comparing frequentist and Bayesian methods (PDF)]({{< baseurl >}}/resources/mit18_05s14_studio9_slides)  
@@ -228,7 +228,7 @@ Exam 2
 S11
 {{< tdclose >}}
 {{< tdopen >}}
-[Studio 11 Plan (TXT)](./resolveuid/667866ee4bffb1c22e5579342533c1dc)
+[Studio 11 Plan (TXT)]({{< baseurl >}}/resources/studio11outline)
 {{< tdclose >}}
 {{< tdopen >}}
 [Confidence intervals III (PDF)]({{< baseurl >}}/resources/mit18_05s14_studio11_slides)  
@@ -247,7 +247,7 @@ S11
 S12
 {{< tdclose >}}
 {{< tdopen >}}
-[Studio 12 Plan (TXT)](./resolveuid/0835f1daf7362a86b58128f8425e34ee)
+[Studio 12 Plan (TXT)]({{< baseurl >}}/resources/studio12outline)
 {{< tdclose >}}
 {{< tdopen >}}
 [Bootstrapping; linear regression (PDF)]({{< baseurl >}}/resources/mit18_05s14_studio12_slides)  

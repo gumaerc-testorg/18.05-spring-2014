@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading for 25: Linear Regression'
 uid: 4165bb0e-a4e7-1690-9c1f-a78eec116ae7

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 17 Slides: Frequentist methods; NHST'
 uid: d5309817-7341-84b9-c8f4-fccba8b8d110

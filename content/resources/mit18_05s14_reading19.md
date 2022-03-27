@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 19: Null Hypothesis Significance Testing III'
 uid: 3ede82f7-27a0-5cb3-e35b-01820dacff02

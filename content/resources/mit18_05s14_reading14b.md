@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 14b: Continuous Data with Continuous Priors'
 uid: 24075fad-f310-d49f-4fe3-888a9369567c

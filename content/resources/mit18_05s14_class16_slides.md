@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 16 Slides: Probability intervals'
 uid: b38b4bd8-b31c-d5d2-d2e3-1892c7649f7d

@@ -24,6 +24,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lecture
 parent_type: CourseSection
+parent_uid: 788b6153-ce75-e1be-31f0-a394ce761f32
 resourcetype: Image
 title: Image 2
 uid: 6525d0e9-d7a6-a5d4-ae6e-b7b45d2f4bc4

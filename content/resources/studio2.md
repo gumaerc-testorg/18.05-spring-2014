@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Other
 title: studio2.zip
 uid: fc676de2-8462-bbc0-ea59-982db2a4f65a

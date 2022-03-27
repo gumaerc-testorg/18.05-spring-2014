@@ -16,6 +16,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Concept Questions and Discussion
 parent_type: CourseSection
+parent_uid: 5e3f696f-76b6-5791-5119-281343256948
 resourcetype: Image
 title: Image 3
 uid: c3d73866-3157-0f3c-ae65-de0644e5efde

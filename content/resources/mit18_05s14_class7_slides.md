@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 7 Slides: Joint distributions: independence, covariance and correlation'
 uid: 50f0eebb-ef02-f8bb-35a0-7125a199e4ff

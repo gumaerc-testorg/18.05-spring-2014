@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 20: Comparison of Frequentist and Bayesian Inference'
 uid: 76926c60-68c8-b18e-6ecb-48d649b15bfd

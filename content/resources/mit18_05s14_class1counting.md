@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading for Class 1: Introduction'
 uid: 6c10b75b-2d6b-f7ef-d428-74e32f7d6f1c

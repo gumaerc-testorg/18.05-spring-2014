@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 5d: Manipulating Continuous Random Variables'
 uid: 7e4eea65-f1b5-9f1b-371c-564b5a947501

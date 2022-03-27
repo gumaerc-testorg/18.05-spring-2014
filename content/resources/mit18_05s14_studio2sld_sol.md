@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: Expanded Solutions for Studio 2
 uid: 1a5c0c8e-eb50-4db1-d129-c05bd3fd0fa1

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 3: Conditional Probability, Indepedence and Bayes'' Theorem'
 uid: 01645f86-d111-e8fd-ca0b-e5fd46920851

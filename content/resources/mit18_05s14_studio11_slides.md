@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Studio 11 Slides: Confidence intervals III'
 uid: b362f877-572d-8e5a-e654-840f3fa48797

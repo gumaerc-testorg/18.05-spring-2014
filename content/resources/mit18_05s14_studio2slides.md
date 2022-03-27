@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Studio 2 Slides with Solutions: Expected value'
 uid: 7d3b4bde-b5ae-1f94-f70a-2948ff57456f

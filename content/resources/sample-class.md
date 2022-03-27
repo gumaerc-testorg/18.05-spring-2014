@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Sample Class: Class 11\u2013Bayesian Updating: Discrete Priors"
 uid: b09c96b1-1574-9aa1-0e37-c1edf840eb0f
 video_files:

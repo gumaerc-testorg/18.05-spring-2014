@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 23 Slides: Confidence intervals II'
 uid: ab1d438a-237d-8c3c-62b1-5e07db021ca5

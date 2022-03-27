@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 5c: Gallery of Continuous Random Variables'
 uid: 3dcb25dc-a783-3a7c-062d-516701da5c8d

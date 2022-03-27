@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Class 5: Gallery of continuous variables; histograms'
 uid: 58b3986c-5d4e-1b73-903e-dbe630743ec4

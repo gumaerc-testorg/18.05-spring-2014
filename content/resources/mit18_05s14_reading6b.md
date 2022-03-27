@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 6b: Central Limit Theorem and the Law of Large Numbers'
 uid: 73a6c3da-d25e-892d-0d35-82122e1c6c01

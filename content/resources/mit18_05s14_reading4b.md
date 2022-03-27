@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 4b: Discrete Random Variables: Expected Value'
 uid: 79a290ef-627e-8f97-5fcb-f93ff869d8ec

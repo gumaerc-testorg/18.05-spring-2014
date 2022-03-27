@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 20 Slides: Comparison of Bayesian and frequentist inference'
 uid: 7cf32123-f60b-0aaa-8af6-0365ca54dc5d

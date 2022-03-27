@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Studio 8 Slides with Solutions: Rejection regions; NHST'
 uid: c875906a-f482-2a9b-b3fe-d6ffa98a9c98

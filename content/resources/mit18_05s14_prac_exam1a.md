@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ad95d694-8a5a-21e8-d68c-2ed80b877e38
 resourcetype: Document
 title: Exam 1 Practice Questions I
 uid: 1a892978-8f32-7e35-8603-adb327cc541e

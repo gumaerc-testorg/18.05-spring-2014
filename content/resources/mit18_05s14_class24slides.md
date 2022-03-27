@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 24 Slides: Bootstrap confidence intervals'
 uid: dfbfbbba-b493-ae11-077c-12aafd6aedbc

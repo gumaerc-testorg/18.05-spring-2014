@@ -24,6 +24,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Board Problems
 parent_type: CourseSection
+parent_uid: 3c62fbfe-ae8e-25cf-61a1-d89aaacf1f43
 resourcetype: Image
 title: Image 4
 uid: e791a63c-d86f-2da9-c9fc-5efdb6b2f341

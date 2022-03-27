@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ad95d694-8a5a-21e8-d68c-2ed80b877e38
 resourcetype: Document
 title: 'Exam 1 Practice Questions: Long List'
 uid: be09142a-58bb-780d-ee75-02115ee1f4b9

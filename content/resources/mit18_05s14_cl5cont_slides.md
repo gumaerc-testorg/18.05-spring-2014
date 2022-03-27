@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 5 Slides: Variance, continuous random variables'
 uid: 71b08b16-c106-5b3b-3d87-6595f6b173ee

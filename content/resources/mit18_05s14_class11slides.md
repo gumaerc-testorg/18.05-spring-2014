@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 11 Slides: Bayesian updating with known discrete priors'
 uid: f089d66e-035f-58a6-4785-3e074dd5d862

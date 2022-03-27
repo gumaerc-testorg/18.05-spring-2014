@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 13a: Bayesian Updating with Continuous Priors'
 uid: 8105cfc1-1eaa-2e4b-6cbd-4c29b4b281c0

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
 resourcetype: Document
 title: 'Reading 12b: Bayesian Updating: Odds'
 uid: 65200614-be80-c2c1-efcd-0f9f3db8c0e7

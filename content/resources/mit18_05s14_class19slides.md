@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 19 Slides: NHST III: Gallery of tests'
 uid: 98a5762f-a899-c599-2d6f-81280bb7485a

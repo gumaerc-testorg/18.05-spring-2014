@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Reading Questions 7b
 parent_type: CourseSection
+parent_uid: 0232b6c8-f5b3-ed0a-7e98-827b3ef93f98
 resourcetype: Image
 title: figc7-16.png
 uid: 29cbc996-681e-82af-76bf-ef6e5fcf4557

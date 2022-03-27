@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 1 Slides: Introduction, counting and sets'
 uid: 5453e0d0-2bf8-d1b3-73cb-3ff9167c5d2a

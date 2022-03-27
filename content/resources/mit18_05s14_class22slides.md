@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 22 Slides: Confidence intervals for normal data'
 uid: 9066c15e-6f5f-a807-54f0-ebf79db2097d

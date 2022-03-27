@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
+parent_uid: 94de8151-483a-826f-90af-93d292b79cf2
 resourcetype: Document
 title: 'Class 27 Solutions File: Review for final exam, cont''d'
 uid: 32de54f9-2658-e66e-ee8e-c34c9648b916

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Reading Questions 13a
 parent_type: CourseSection
+parent_uid: 77c5e33c-1267-b977-80b7-a3e4b16f8ced
 resourcetype: Image
 title: figc13-rq1-1.png
 uid: bbc2fff1-239e-9393-be14-f53e56e13ebd

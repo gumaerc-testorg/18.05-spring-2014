@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Studio 5 Slides with Solutions: Bayesian updating'
 uid: ec6dc60e-4515-e8a2-cf64-a89344ebf68d

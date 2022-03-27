@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
+parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Studio 9 Slides: NHST; comparing frequentist and Bayesian methods'
 uid: 2e1d6069-6fea-3163-82b2-ca9b0998f83a
