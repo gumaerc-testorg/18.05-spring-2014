@@ -1,14 +1,19 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _18.05 Introduction to Probability and Statistics_ as it was taught by Dr. Jeremy Orloff and Dr. Jonathan Bloom in Spring 2014.
 
@@ -16,8 +21,7 @@ _18.05_ is an elementary introduction to probability and statistics for students
 
 In Spring 2014, class sessions emphasized active learning, with students engaging in concept questions, discussions, board problems, and computation using R. Outside of class, students used the MITx platform for interactive reading questions and problem set checkers.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -31,49 +35,24 @@ Most students who take the course plan to become physicians, engineers, or resea
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 In the following pages, Dr. Orloff and Dr. Bloom discuss additional aspects of 18.05:
 
-*   [Course History]({{< baseurl >}}/pages/instructor-insights/course-history)
-*   [A Unified Curriculum with Bayesian Statistics]({{< baseurl >}}/pages/instructor-insights/a-unified-curriculum-with-bayesian-statistics)
-*   [Targeted Readings and Online Reading Questions]({{< baseurl >}}/pages/instructor-insights/targeted-readings-and-questions)
-*   [Problem Set Checkers]({{< baseurl >}}/pages/instructor-insights/problem-set-checker)
-*   [Clicker Questions]({{< baseurl >}}/pages/instructor-insights/clicker-questions)
-*   [Trust in an Active Learning Classroom]({{< baseurl >}}/pages/instructor-insights/trust-in-an-active-learning-classroom)
-*   [Co-Teaching]({{< baseurl >}}/pages/instructor-insights/co-teaching)
-*   [Challenges]({{< baseurl >}}/pages/instructor-insights/challenges)
+- {{% resource_link 2d69a0de-0f58-08a2-3880-f4a28f594d72 "Course History" %}}
+- {{% resource_link e612a220-f47d-26cb-1df4-1379920545d8 "A Unified Curriculum with Bayesian Statistics" %}}
+- {{% resource_link c087d0ea-b9b0-a8e6-9867-02428a46325e "Targeted Readings and Online Reading Questions" %}}
+- {{% resource_link 47372cd3-e919-0e97-d65a-ddc960247454 "Problem Set Checkers" %}}
+- {{% resource_link a3b80720-d701-2da0-a420-760cbd667430 "Clicker Questions" %}}
+- {{% resource_link 3f220109-a2fa-c42b-47f0-b1be29e4f8ab "Trust in an Active Learning Classroom" %}}
+- {{% resource_link bcc7c9ac-7b81-71b2-3cc4-5d69d98f83cd "Co-Teaching" %}}
+- {{% resource_link 12233ebe-f550-072f-c1cb-c292891e2f81 "Challenges" %}}
 
 {{< anchor "gallery" >}}{{< /anchor >}}{{< anchor "dayin" >}}{{< /anchor >}}
 
-A Day in 18.05
---------------
+## A Day in 18.05
 
 Class sessions were extremely active and student-centered, with a mix of lecture, concept questions and discussion, board problems, and demonstrations and simulations. This section uses one sample class to give a glimpse of the rhythm of 18.05.
-
-{{< anchor "Timeline" >}}{{< /anchor >}}Timeline
-------------------------------------------------
-
-The progression of the class is shown in the timeline below. Click on any color block to watch that portion of the class in the video below.
-
-[![]({{< resource_file 95c884d0-7bbf-8dfa-484c-6f781edbae2f >}})](javascript: void(0);) [![]({{< resource_file 796e336a-6321-553d-1b0b-0dba2857b958 >}})](javascript: void(0);) [![]({{< resource_file ec4fa823-a5e5-74fa-19a4-135bfe374168 >}})](javascript: void(0);) [![]({{< resource_file 344cfc36-5c2e-5653-bd0f-dd22d08d1606 >}})](javascript: void(0);) [![]({{< resource_file cb312295-c055-63c8-20b3-8c9b3220ad4c >}})](javascript: void(0);) [![]({{< resource_file d09f085c-fadc-da2c-eb09-1cc93804757c >}})](javascript: void(0);) [![]({{< resource_file a9dd2ed7-b1ec-980b-61a3-acf9d555f01d >}})](javascript: void(0);) [![]({{< resource_file aacc3992-aaba-7cd8-ae05-5f2067527cd7 >}})](javascript: void(0);) [![]({{< resource_file 33632eed-a57e-998a-e8d6-0fd5de57a26d >}})](javascript: void(0);) [![]({{< resource_file 4738c49f-7d31-0a1a-ba14-6990b0fc69dd >}})](javascript: void(0);) [![]({{< resource_file db868553-7ef9-82a7-530e-91d85fce85bf >}})](javascript: void(0);) [![]({{< resource_file 9b6d1b7e-4183-ea02-eba4-c0753c0d745d >}})](javascript: void(0);) [![]({{< resource_file 56534dfb-100a-c954-623a-847f60907afc >}})](javascript: void(0);) [![]({{< resource_file cdc6ba31-546d-ca08-5e77-150fcc9710c7 >}})](javascript: void(0);)
-
-Each in-class activity type is pictured in an image gallery with descriptive commentary from Dr. Jeremy Orloff and Dr. Jonathan Bloom. In the key below, click on an activity type to see the corresponding image gallery.
-
-![Displays the color on the preceding graph that represents .](/images/educator/edu_b-lecture-key.png) [![Four students sitting at a table look up at a projector screen that is showing a comic.](/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/gallery1-1.jpg "<p>This course served as an elementary introduction to probability and statistics for non-math majors who will encounter statistics in their professional lives.</p> <p>As students entered the classroom for Tuesday and Thursday class sessions, they were typically greeted with a comic or image related to the topic(s) for the day.</p>")Class introduction]({{< baseurl >}}/resources/gallery1-1): Announcements and overview
-
-![Displays the color on the preceding graph that represents .](/images/educator/edu_b-recitation-key.png) [![n instructor stands amidst seated students. The screen on the wall shows a slide with a math problem for the students to work on.](/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/gallery4-1.jpg "<p>During each class, students worked on two to three board problems, each with multiple parts. We found that three cycles of getting up, working, and sitting down was the limit of student energy. Beyond that they would drag their feet.</p> <p>Problem statements were projected on screens around the room.</p>")Board problem]({{< baseurl >}}/resources/gallery4-1): Extended problem that student teams collaborate on at whiteboards
-
-![Displays the color on the preceding graph that represents .](/images/educator/edu_b-present-key.png) [![An instructor points at a projector screen showing a slide and addresses students, who are sitting at round tables.](/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/gallery2-1.jpg "<p>Students were expected to complete assigned readings and reading questions before class and we structured our teaching to build on this preparation. Lectures were brief summaries, kept short to allow ample time for active learning. We aimed to have students working on a problem within the first 15 minutes of class.</p> <p>For each class session, we created a slide deck that contained lecture content as well as problems for the students to work on. After class, we added full solutions to the slide deck and posted everything online for student use.</p>")Lecture]({{< baseurl >}}/resources/gallery2-1): Brief lecture reviewing content covered in readings
-
-![Displays the color on the preceding graph that represents .](/images/educator/edu_b-team-key.png) [![Students seated at round tables raise their hands. One projector screen shows a slide and one projector screen shows a set of dice.](/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/gallery5-1.jpg "<p>In many class meetings, we illustrated concepts using physical objects like dice and cards. Sometimes, this took the form of an instructor-led demonstration in front of all of the students. We often asked students to participate by choosing cards, guessing outcomes, and explaining their ideas.</p> <p>At the start of the course, we also gave each student a bag of dice that included 10-sided dice and all the Platonic solids.  The students used the dice to explore probability and collect data for statistics.</p> <p>In the demonstration pictured here, we illustrated the role of prior probability in Bayesian inference.  We told students that we would randomly select and roll a die from a cup containing dice with 4-sides and 20-sides.  Secretly the cup contained twenty 20-sided dice and one 4-sided die, and we intentionally placed the 4-sided die on top of the pile in order to select it by feel.  We rolled the die covertly, reported a 3, and asked students which type of die was most likely chosen; students were split between 4-sided and “equally likely”. We then used the document camera to reveal the contents of the cup; as shown, the students now overwhelmingly favored the 20-sided die. This demonstration can be seen in the sample class video.</p>")Demonstration or simulation]({{< baseurl >}}/resources/gallery5-1): Instructor-led demonstrations or student experiments with dice.
-
-![Displays the color on the preceding graph that represents .](/images/educator/edu_b-lab-key.png) [![A multiple-choice question is shown on a projector screen. Students use handheld clickers to submit their answers.](/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/gallery3-1.jpg "<p>We aimed to have a few concept questions in each class. For these, we showed a slide with a multiple choice question, typically related to content just discussed in a brief lecture segment. The students responded to concept questions by logging their answers via handheld clickers they brought to class.</p> <p>Participating in clicker questions was worth 5% of students’ grades; answers were not graded for correctness. This also served as an incentive for students to attend class.</p>")Concept question]({{< baseurl >}}/resources/gallery3-1): Multiple-choice question that students respond to via handheld clickers
-
-![Displays the color on the preceding graph that represents .]({{< resource_file 888efce4-7bd1-df33-fc04-4dac04f592d3 >}})Discussion following concept or board questions
-
-undefined
 
 {{< anchor "Video" >}}{{< /anchor >}}
 
@@ -81,18 +60,17 @@ undefined
 
 _This video features the happenings of a full 18.05 class session._
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-Calculus I GIR ![](/images/educator/icon-question-gir.png). The following versions of Calculus I are on OCW: [18.01SC](/courses/18-01sc-single-variable-calculus-fall-2010/), [18.01](/courses/18-01-single-variable-calculus-fall-2005/), [18.01](/courses/18-01-single-variable-calculus-fall-2006/), [18.013A](/courses/18-013a-calculus-with-applications-spring-2005/), and [18.014](/courses/18-014-calculus-with-theory-fall-2010/).
+Calculus I GIR ![](/images/educator/icon-question-gir.png). The following versions of Calculus I are on OCW: [18.01SC](/courses/18-01sc-single-variable-calculus-fall-2010), [18.01](/courses/18-01-single-variable-calculus-fall-2005), [18.01](/courses/18-01-single-variable-calculus-fall-2006), [18.013A](/courses/18-013a-calculus-with-applications-spring-2005), and [18.014](/courses/18-014-calculus-with-theory-fall-2010).
 
 ### Requirements Satisfied
 
-*   REST ![](/images/educator/icon-question-rest.png)
-*   Can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/)
-*   Can be used to satisfy the probability and statistics requirement for a [Bachelor of Science in Brain and Cognitive Sciences](https://bcs.mit.edu/academic-program/undergraduate)
+- REST ![](/images/educator/icon-question-rest.png)
+- Can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/)
+- Can be used to satisfy the probability and statistics requirement for a [Bachelor of Science in Brain and Cognitive Sciences](https://bcs.mit.edu/academic-program/undergraduate)
 
 ### Offered
 
@@ -100,8 +78,7 @@ Every spring semester
 
 {{< anchor "grading" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following assessment elements:
 
@@ -111,10 +88,11 @@ The students' grades were based on the following assessment elements:
 - 15% Exam 2
 - 35% Final exam
 
-Student Information
--------------------
+## Student Information
 
-![On average, 48 students take this course each offering.]({{< resource_file 7e42c0cd-c97a-e088-6310-0e27e9c3f4d6 >}})
+### Enrollment
+
+48 students
 
 ### Breakdown by Year
 
@@ -122,7 +100,7 @@ Mostly juniors, some sophomores, some seniors.
 
 ### Breakdown by Major
 
-The students enrolled this semester were primarily life sciences majors. There were a fair number of students who planned to become doctors, researchers, or engineers. Math majors who are interested in probability and statistics tend to take [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014). Electrical engineering and computer science majors who are interested in probability and statistics tend to take [_6.041 Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/).
+The students enrolled this semester were primarily life sciences majors. There were a fair number of students who planned to become doctors, researchers, or engineers. Math majors who are interested in probability and statistics tend to take [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014). Electrical engineering and computer science majors who are interested in probability and statistics tend to take [_6.041 Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013).
 
 ### Typical Student Background
 
@@ -136,53 +114,48 @@ Given the current staffing arrangement and classroom, the ideal class size is up
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture and Active Learning
----------------------------
+### Lecture and Active Learning
 
-*   Two sessions per week, each lasting 1.5 hours; 27 sessions total
-*   Attended by all students
-*   Included brief lectures, demonstrations, and frequent opportunities for student participation: concept questions, discussion questions, board problems. These time types are described in image galleries linked from the timeline key for [A Day in 18.05]({{< baseurl >}}/pages/instructor-insights/#dayin).
+- Two sessions per week, each lasting 1.5 hours; 27 sessions total
+- Attended by all students
+- Included brief lectures, demonstrations, and frequent opportunities for student participation: concept questions, discussion questions, board problems. These time types are described in image galleries linked from the timeline key for {{% resource_link 1b685882-0e39-dbc6-ba03-dc47858871bd "A Day in 18.05" "#dayin" %}}. 
 
-{{< anchor "RStudio" >}}{{< /anchor >}}R Studio
------------------------------------------------
+### R Studio
 
-*   One session per week, lasting 1.5 hours; 10 sessions total.
-*   No new math content was introduced.
-*   Students used [R, a free statistical software package](http://www.r-project.org), via the user interface [RStudio](http://www.rstudio.com), to apply statistical tools, visualize data, and explore concepts through simulations.
-*   Real-world examples were frequently incorporated.
-*   Students used and modified pre-written code to build their conceptual understanding of the week’s topics.
+- One session per week, lasting 1.5 hours; 10 sessions total.
+- No new math content was introduced.
+- Students used [R, a free statistical software package](http://www.r-project.org), via the user interface [RStudio](http://www.rstudio.com), to apply statistical tools, visualize data, and explore concepts through simulations.
+- Real-world examples were frequently incorporated.
+- Students used and modified pre-written code to build their conceptual understanding of the week’s topics.
 
-Out of Class
-------------
+### Out of Class
 
-*   [Readings]({{< baseurl >}}/pages/readings) and [reading questions]({{< baseurl >}}/pages/instructor-insights/targeted-readings-and-questions) before each class meeting
-*   Nine [problem sets]({{< baseurl >}}/pages/assignments), due on non-class days so that students wouldn't forego class readings in order to complete problem sets.
-*   Preparation for [exams]({{< baseurl >}}/pages/exams)
-*   Optional office hours on Thursdays, Fridays, Sundays, and Mondays
+- {{% resource_link 579c055a-ccb4-eb7e-bb6b-f294146b45a5 "Readings" %}} and {{% resource_link c087d0ea-b9b0-a8e6-9867-02428a46325e "reading questions" %}} before each class meeting
+- Nine {{% resource_link fed85a98-064c-2e2a-4378-f3f7549df9b8 "problem sets" %}}, due on non-class days so that students wouldn't forego class readings in order to complete problem sets.
+- Preparation for {{% resource_link ad95d694-8a5a-21e8-d68c-2ed80b877e38 "exams" %}}
+- Optional office hours on Thursdays, Fridays, Sundays, and Mondays
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
-Course Team Roles
------------------
+## Course Team Roles
 
 During Spring 2014, there were two lead instructors and three teaching assistants in the classroom at all times. Much of class time was devoted to board problems, during which all five members of the teaching staff circulated around the classroom and worked with students. The course was generously staffed during the 2013 and 2014 offerings to support the transformation in curriculum and pedagogy. From 2015 onwards, the course will likely have a smaller staff.
 
 ### Lead Instructors (Dr. Jeremy Orloff and Dr. Jonathan Bloom)
 
-*   Designed the course syllabus and structured the course
-*   Prepared nearly all course materials, including readings, problem sets, lecture slides, and R studio materials
-*   Led each class session, gave brief lectures, conducted demonstrations, and worked with students on board problems
+- Designed the course syllabus and structured the course
+- Prepared nearly all course materials, including readings, problem sets, lecture slides, and R studio materials
+- Led each class session, gave brief lectures, conducted demonstrations, and worked with students on board problems
 
 ### Teaching Assistants (Ruthi Hortsch, Erika Trent, and Dr. Peter Kempthorne)
 
-*   Supported all class activity, particularly student work on board problems
-*   As a statistician, Dr. Peter Kempthorne advised the lead instructors on teaching related to statistics and was key in developing the R studios.
+- Supported all class activity, particularly student work on board problems
+- As a statistician, Dr. Peter Kempthorne advised the lead instructors on teaching related to statistics and was key in developing the R studios.
 
 ### Graders (undergraduate students)
 
-*   Graded the nine problem sets for the course
+- Graded the nine problem sets for the course
