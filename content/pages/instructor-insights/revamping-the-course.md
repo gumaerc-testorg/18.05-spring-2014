@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom describe how
+  they have changed the course, in terms of both pedagogy and content. '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +10,10 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: Revamping the Course
 uid: 6360453c-ee3b-ccd6-8cb8-519ceb0c334c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom describe how they have changed the course, in terms of both pedagogy and content._
@@ -25,9 +31,9 @@ Converting to a Flipped Classroom with Active Learning
 
 Prof. Haynes Miller has been championing active learning in the MIT mathematics department for years with some success. He had the vision for bringing active learning to 18.05, and he is the Principal Investigator on the Davis Educational Grant.
 
-Our particular approach to flipping the classroom involved [students learning material from readings before class]({{< baseurl >}}/pages/instructor-insights/readings-and-reading-questions). During class, students were actively engaged in learning through concept questions, discussions, and board problems. Details of each of these activities can be found in [A Day in 18.05]({{< baseurl >}}/pages/instructor-insights/#dayin), which includes a timeline, image galleries with descriptive commentary, and a video of a class session.
+Our particular approach to flipping the classroom involved {{% resource_link 1423305c-9876-32ae-3be2-b0d0096865f3 "students learning material from readings before class" %}}. During class, students were actively engaged in learning through concept questions, discussions, and board problems. Details of each of these activities can be found in {{% resource_link 1b685882-0e39-dbc6-ba03-dc47858871bd "A Day in 18.05" "#dayin" %}}, which includes a timeline, image galleries with descriptive commentary, and a video of a class session.
 
-The Davis Foundation and the MIT Department of Mathematics, along with the rest of MIT and much of the world, are interested in online learning and how the internet can be leveraged to improve university learning. To this end, we incorporated [interactive reading questions]({{< baseurl >}}/pages/instructor-insights/readings-and-reading-questions/#readingquestions) and [problem set checkers]({{< baseurl >}}/pages/instructor-insights/problem-set-checker) on the edX platform into our course.
+The Davis Foundation and the MIT Department of Mathematics, along with the rest of MIT and much of the world, are interested in online learning and how the internet can be leveraged to improve university learning. To this end, we incorporated {{% resource_link 1423305c-9876-32ae-3be2-b0d0096865f3 "interactive reading questions" "#readingquestions" %}} and {{% resource_link 47372cd3-e919-0e97-d65a-ddc960247454 "problem set checkers" %}} on the edX platform into our course.
 
 Unifying the Curriculum by Adding a Bayesian Statistics Unit
 ------------------------------------------------------------
@@ -62,4 +68,4 @@ On April 7, 2014, Dr. Orloff and Dr. Bloom gave the following talk on the transf
 
 _This video contains the seminar talk that was given on April 7, 2014 about the transformation of 18.05._
 
-[Slide deck for HHMI seminar: Flipping the Dice (PDF)]({{< baseurl >}}/resources/mit18_05s14_hhmislides)
+{{% resource_link 984478a8-72e7-81bd-1c50-1cc0b0dd90ac "Slide deck for HHMI seminar: Flipping the Dice (PDF)" %}}

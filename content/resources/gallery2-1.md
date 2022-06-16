@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/09b5fbbceb74b3592a5a6590d64ee6ec_gallery2-1.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/09b5fbbceb74b3592a5a6590d64ee6ec_gallery2-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Students were expected to complete assigned readings and reading questions
@@ -22,4 +22,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: Image 2-1
 uid: 09b5fbbc-eb74-b359-2a5a-6590d64ee6ec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a gallery of images showing in-class activity with
+  descriptive commentary from Dr. Jeremy Orloff and Dr. Jonathan Bloom.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +10,10 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: Demonstrations
 uid: 6ce197eb-23ac-01ac-0db3-a4799d5dbc0b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< image-gallery id="6ce197eb-23ac-01ac-0db3-a4799d5dbc0b_nanogallery2" baseUrl="/courses/18-05-introduction-to-probability-and-statistics-spring-2014/" >}}

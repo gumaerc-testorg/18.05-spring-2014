@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/25edccd24f2d3ab4214799c64691b238_gallery4-3.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/25edccd24f2d3ab4214799c64691b238_gallery4-3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "We were sometimes able to facilitate the students\u2019 work in creative\
@@ -27,4 +27,8 @@ parent_uid: 3c62fbfe-ae8e-25cf-61a1-d89aaacf1f43
 resourcetype: Image
 title: Image 3
 uid: 25edccd2-4f2d-3ab4-2147-99c64691b238
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

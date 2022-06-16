@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/49c6dd11188aa73416b1c66d57f0be85_gallery5-2.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/49c6dd11188aa73416b1c66d57f0be85_gallery5-2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: In the demonstration pictured here, we illustrated the concepts of mean
@@ -22,4 +22,8 @@ parent_uid: 6ce197eb-23ac-01ac-0db3-a4799d5dbc0b
 resourcetype: Image
 title: Image 2
 uid: 49c6dd11-188a-a734-16b1-c66d57f0be85
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

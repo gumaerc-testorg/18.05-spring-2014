@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding continuous
   data, continuous priors.
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/f8edc081e8eeaf1f14592b3eea1dd88f_MIT18_05S14_studio6slides.pdf
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/f8edc081e8eeaf1f14592b3eea1dd88f_MIT18_05S14_studio6slides.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,10 @@ parent_uid: 795a5521-0a16-d54d-c4e8-910a0c21496f
 resourcetype: Document
 title: 'Studio 6 Slides with Solutions: Continuous data, continuous priors'
 uid: f8edc081-e8ee-af1f-1459-2b3eea1dd88f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This is a resource file that contains information regarding continuous data, continuous priors.
+

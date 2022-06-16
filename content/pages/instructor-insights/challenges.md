@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom discuss the
+  challenge of developing exams that aligned with their active learning  pedagogy.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +10,10 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: Challenges
 uid: 12233ebe-f550-072f-c1cb-c292891e2f81
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom discuss the challenge of developing exams that aligned with their active learning pedagogy._

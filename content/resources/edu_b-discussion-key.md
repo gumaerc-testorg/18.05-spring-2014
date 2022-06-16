@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/888efce47bd1df33fc044dac04f592d3_edu_b-discussion-key.png
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/888efce47bd1df33fc044dac04f592d3_edu_b-discussion-key.png
 file_type: image/png
 image_metadata:
   caption: ''
@@ -12,4 +12,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: edu_b-discussion-key.png
 uid: 888efce4-7bd1-df33-fc04-4dac04f592d3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

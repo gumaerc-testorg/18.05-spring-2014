@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom discuss their
+  experiences co-teaching 18.05.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +10,10 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: Co-Teaching
 uid: bcc7c9ac-7b81-71b2-3cc4-5d69d98f83cd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom discuss their experiences co-teaching 18.05._

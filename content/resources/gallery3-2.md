@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/05ad8f69cdf606078d3a44be35d76704_gallery3-2.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/05ad8f69cdf606078d3a44be35d76704_gallery3-2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "Using the clickers allowed us to see students\u2019 responses and gauge\
@@ -22,4 +22,8 @@ parent_uid: 5e3f696f-76b6-5791-5119-281343256948
 resourcetype: Image
 title: Image 2
 uid: 05ad8f69-cdf6-0607-8d3a-44be35d76704
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

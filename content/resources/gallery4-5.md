@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/d5e467cee7e0a722ff1b05c6a84355f9_gallery4-5.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/d5e467cee7e0a722ff1b05c6a84355f9_gallery4-5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Each group worked at a different pace, and we always had to decide how
@@ -34,4 +34,8 @@ parent_uid: 3c62fbfe-ae8e-25cf-61a1-d89aaacf1f43
 resourcetype: Image
 title: Image 5
 uid: d5e467ce-e7e0-a722-ff1b-05c6a84355f9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/32319eba4765765b81e984ddb4201848_gallery4-1.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/32319eba4765765b81e984ddb4201848_gallery4-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: We usually projected the problem statements on the screens. We generally
@@ -16,4 +16,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: Image 4-1
 uid: 32319eba-4765-765b-81e9-84ddb4201848
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

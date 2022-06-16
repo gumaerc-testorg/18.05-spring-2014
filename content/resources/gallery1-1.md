@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/32b355cd881c2d8bd0e11c0d6f962667_gallery1-1.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/32b355cd881c2d8bd0e11c0d6f962667_gallery1-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'This course served as an elementary introduction to probability and statistics
@@ -18,4 +18,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: Image 1-1
 uid: 32b355cd-881c-2d8b-d0e1-1c0d6f962667
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

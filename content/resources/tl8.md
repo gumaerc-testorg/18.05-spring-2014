@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/aacc3992aaba7cd8ae055f2067527cd7_tl8.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/aacc3992aaba7cd8ae055f2067527cd7_tl8.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -12,4 +12,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: tl8.jpg
 uid: aacc3992-aaba-7cd8-ae05-5f2067527cd7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

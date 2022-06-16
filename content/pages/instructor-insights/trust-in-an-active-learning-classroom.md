@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom discuss the
+  importance of trust in their active learning classroom and their strategies for
+  promoting it. '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +11,10 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: Trust in an Active Learning Classroom
 uid: 3f220109-a2fa-c42b-47f0-b1be29e4f8ab
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom discuss the importance of trust in their active learning classroom and their strategies for promoting it._

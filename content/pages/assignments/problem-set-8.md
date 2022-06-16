@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides an interactive answer checker for a problem set.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,12 +9,16 @@ parent_type: CourseSection
 parent_uid: fed85a98-064c-2e2a-4378-f3f7549df9b8
 title: Problem Set 8
 uid: 886c29bc-019f-1cb1-819c-7e00a0f86173
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Problem Set 8 Answer Checker
 ----------------------------
 
-Work on the assigned problems in the associated Problem Set PDF file, then use the problem set checker to find out if the answer was correct or incorrect. To check your answers put them in the appropriate box and click the 'Check' button. Every checker box can do arithmetic and calculate standard functions (see [calculator help]({{< baseurl >}}/pages/assignments/calculator-help)). If you give decimal answers, give them to at least 3 decimal places.
+Work on the assigned problems in the associated Problem Set PDF file, then use the problem set checker to find out if the answer was correct or incorrect. To check your answers put them in the appropriate box and click the 'Check' button. Every checker box can do arithmetic and calculate standard functions (see {{% resource_link 758ceee0-d290-5d7c-5072-7d458581a3b3 "calculator help" %}}). If you give decimal answers, give them to at least 3 decimal places.
 
 As you work you should have pencil and paper handy for calculations and thinking!
 

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/858cf45da94a2a3c06df15efde1d60e3_gallery1-2.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/858cf45da94a2a3c06df15efde1d60e3_gallery1-2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Class began with announcements, addenda from the previous class meeting,
@@ -19,4 +19,8 @@ parent_uid: bcfb2175-f27a-2f35-adc5-31bd3a5186d9
 resourcetype: Image
 title: Image 2
 uid: 858cf45d-a94a-2a3c-06df-15efde1d60e3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

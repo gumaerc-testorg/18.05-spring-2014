@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-05-introduction-to-probability-and-statistics-spring-2014/91e0c3c56e50b3957412a752f95fb1d9_gallery5-1.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/91e0c3c56e50b3957412a752f95fb1d9_gallery5-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'In many class meetings, we illustrated concepts using physical objects.
@@ -24,4 +24,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: Image 5-1
 uid: 91e0c3c5-6e50-b395-7412-a752f95fb1d9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
