@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-05-introduction-to-probability-and-statistics-spring-2014/2acbdfd123c90e6c7f8b6112fe72cd4c_gallery4-2.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/2acbdfd123c90e6c7f8b6112fe72cd4c_gallery4-2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "We had the students work on the whiteboards in groups of three. The physical\
@@ -21,7 +21,17 @@ image_metadata:
   credit: Image courtesy of OCW.
   image-alt: Small groups of students gather around whiteboards and work together
     on solving math problems.
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWImage
+parent_title: Board Problems
+parent_type: CourseSection
+parent_uid: 3c62fbfe-ae8e-25cf-61a1-d89aaacf1f43
 resourcetype: Image
 title: Image 2
 uid: 2acbdfd1-23c9-0e6c-7f8b-6112fe72cd4c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

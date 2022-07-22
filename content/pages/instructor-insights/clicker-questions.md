@@ -1,10 +1,19 @@
 ---
 content_type: page
+description: 'In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom discuss their
+  use of clicker questions in 18.05. '
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: Clicker Questions
 uid: a3b80720-d701-2da0-a420-760cbd667430
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom discuss their use of clicker questions in 18.05._

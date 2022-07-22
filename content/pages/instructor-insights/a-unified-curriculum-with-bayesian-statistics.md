@@ -1,10 +1,19 @@
 ---
 content_type: page
+description: In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom discuss how
+  the unit on Bayesian statistics unifies the curriculum.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: A Unified Curriculum with Bayesian Statistics
 uid: e612a220-f47d-26cb-1df4-1379920545d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom discuss how the unit on Bayesian statistics unifies the 18.05 curriculum._

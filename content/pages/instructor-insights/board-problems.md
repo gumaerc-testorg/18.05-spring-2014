@@ -1,13 +1,22 @@
 ---
 content_type: page
+description: This section provides a gallery of images showing in-class activity with
+  descriptive commentary from Dr. Jeremy Orloff and Dr. Jonathan Bloom.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b685882-0e39-dbc6-ba03-dc47858871bd
 title: Board Problems
 uid: 3c62fbfe-ae8e-25cf-61a1-d89aaacf1f43
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-{{< image-gallery id="3c62fbfe-ae8e-25cf-61a1-d89aaacf1f43_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/18-05-introduction-to-probability-and-statistics-spring-2014/" >}}
+{{< image-gallery id="3c62fbfe-ae8e-25cf-61a1-d89aaacf1f43_nanogallery2" baseUrl="/courses/18-05-introduction-to-probability-and-statistics-spring-2014/" >}}
 {{< image-gallery-item href="2acbdfd123c90e6c7f8b6112fe72cd4c_gallery4-2.jpg" data-ngdesc="" text="We had the students work on the whiteboards in groups of three. The physical act of standing up served many purposes. Students were more focused without the distraction of their computers and smartphones. They were energized by physically changing positions. Sharing whiteboard space encouraged conversation and collaboration. Students could also look at each other’s work for hints and ideas, and we could easily observe their strategies and progress. Working at the whiteboards was a huge part of the course.  For board problems, the physical classroom was fantastic. There was ample room for students to rapidly get out of their seats, find board space, work on a problem comfortably, and get back in their seats.  Students learned a lot from each other, especially when they discussed their ideas as a group. If one student had a stronger understanding of the material, that student might take the lead on a particular problem. Students were also able to look at other students’ work or interact with other groups if they were stuck." >}}
 {{< image-gallery-item href="25edccd24f2d3ab4214799c64691b238_gallery4-3.jpg" data-ngdesc="" text="We were sometimes able to facilitate the students’ work in creative ways. In this image, for example, we projected a likelihood table onto the whiteboards so that students could construct confidence intervals without needing to first copy down the table.  Although students spent considerable time working on board problems, this iteration of the course covered as much or more material than past versions of the course. The key difference was that instead of instructors working out examples on the board, students worked on problems themselves. We believe it’s much more beneficial for students to work out one example than for them to watch an instructor work out two. When they worked on the problems themselves, they could quickly identify what they did not understand and seek help." >}}
 {{< image-gallery-item href="e791a63cd86f2da9c9fc5efdb6b2f341_gallery4-4.jpg" data-ngdesc="" text="Every class was staffed with two instructors and three assistants (one instructor, one graduate student, and two undergraduate students.) The instructors and assistants circulated around the room to see how students were approaching the problems and where students were getting stuck. When helping, we paid extra attention to groups that were struggling to make progress and sometimes asked more challenging follow-up questions to groups that finished quickly. We wanted to get everyone to about the same point so that we could discuss the solution productively as a class.  In most introductory-level math courses at MIT, problem sets include a mix of drill problems and more challenging problems. Because we worked through so many problems in class and to some extent on the reading questions, we were able to focus the problem sets on challenging problems." >}}

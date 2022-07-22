@@ -1,581 +1,292 @@
 ---
 content_type: page
+description: This section provides the assigned readings and reading questions that
+  students are required to complete prior to attending class sessions.
+draft: false
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Listed in the following table are assigned readings that students were expected to complete prior to attending class sessions. Students also completed online multiple choice or numerical answer questions based on each week's readings. Students received instant feedback and could make multiple attempts. \[Note: the online reading questions are not available to OpenCourseWare users.\] 
 
-Listed in the following table are assigned readings and [reading questions]({{< baseurl >}}/pages/instructor-insights/readings-and-reading-questions) that students were expected to complete prior to attending class sessions. The reading questions are multiple choice or numerical answer questions. Students received instant feedback and could make multiple attempts. Another form of interactive assessment used in the course, Problem Set Checker, can be viewed on the [Assignments]({{< baseurl >}}/pages/assignments) page.
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-{{< thopen >}}
-INTERACTIVE Reading QUESTIONS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< thclose >}}{{< thopen >}}
+ 
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **Probability**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "3e232431-40e0-cf95-a53e-ede3947b48d4" "1a: Introduction (PDF)" %}}
 
-[1a: Introduction (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading1a)
+{{% resource_link "250d5dfd-399a-5612-d232-cc337fc51fa9" "1b: Counting and Sets (PDF)" %}}
 
-[1b: Counting and Sets (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading1b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for 1b]({{< baseurl >}}/pages/readings/reading-questions-1b)
-
-[Reading Questions for R Intro]({{< baseurl >}}/pages/readings/reading-questions-r-intro)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "245b5fa3-c947-b16a-7c47-716f0cd96585" "2: Probability: Terminology and Examples (PDF)" %}}
 
-[2: Probability: Terminology and Examples (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading2)
+{{% resource_link "ea2ab54b-606a-47dd-a91a-1b0b7743732d" "R Tutorial 1A: Basics" %}}
 
-[R Tutorial 1A: Basics](./resolveuid/654a858c5c3ed17ec925cc382f32bb01)
+{{% resource_link "aaf9bdcf-8a26-4c77-9793-47a67e6bc8ba" "R Tutorial 1B: Random Numbers" %}}
 
-[R Tutorial 1B: Random Numbers](./resolveuid/660c528c0d223f522a208c81128f11e7)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-[Reading Questions for 2]({{< baseurl >}}/pages/readings/reading-questions-2)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C3
-{{< tdclose >}}
-{{< tdopen >}}
-[3: Conditional Probability, Independence and Bayes' Theorem (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading3)
-{{< tdclose >}}
-{{< tdopen >}}
-[Reading Questions for 3]({{< baseurl >}}/pages/readings/reading-questions-3)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link "01645f86-d111-e8fd-ca0b-e5fd46920851" "3: Conditional Probability, Independence and Bayes' Theorem (PDF)" %}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "3ce5b0f0-e530-8a7f-eed7-cecf537b314e" "4a: Discrete Random Variables (PDF)" %}}
 
-[4a: Discrete Random Variables (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading4a)
+{{% resource_link "79a290ef-627e-8f97-5fcb-f93ff869d8ec" "4b: Discrete Random Variables: Expected Value (PDF)" %}}
 
-[4b: Discrete Random Variables: Expected Value (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading4b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for R]({{< baseurl >}}/pages/readings/reading-questions-for-r)
-
-[Reading Questions for 4a]({{< baseurl >}}/pages/readings/reading-questions-4a)
-
-[Reading Questions for 4b]({{< baseurl >}}/pages/readings/reading-questions-4b)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "b09f8047-e250-79e5-9d37-9a4d9782b621" "5a: Variance of Discrete Random Variables (PDF)" %}}
 
-[5a: Variance of Discrete Random Variables (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading5a)
+{{% resource_link "1f88c7c7-65d2-532f-d57d-8ee719a751b3" "5b: Continuous Random Variables (PDF)" %}}
 
-[5b: Continuous Random Variables (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading5b)
+{{% resource_link "3dcb25dc-a783-3a7c-062d-516701da5c8d" "5c: Gallery of Continuous Random Variables (PDF)" %}}
 
-[5c: Gallery of Continuous Random Variables (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading5c)
+{{% resource_link "7e4eea65-f1b5-9f1b-371c-564b5a947501" "5d: Manipulating Continuous Random Variables (PDF)" %}}
 
-[5d: Manipulating Continuous Random Variables (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading5d)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for 5a]({{< baseurl >}}/pages/readings/reading-questions-5a)
-
-[Reading Questions for 5b]({{< baseurl >}}/pages/readings/reading-questions-5b)
-
-[Reading Questions for 5c]({{< baseurl >}}/pages/readings/reading-questions-5c)
-
-[Reading Questions for 5d]({{< baseurl >}}/pages/readings/reading-questions-5d)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "c7bd52cd-1c88-1d4b-32bb-e3cfb55f58d7" "6a: Expectation, Variance and Standard Deviation for Continuous Random Variables (PDF)" %}}
 
-[6a: Expectation, Variance and Standard Deviation for Continuous Random Variables (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading6a)
+{{% resource_link "73a6c3da-d25e-892d-0d35-82122e1c6c01" "6b: Central Limit Theorem and the Law of Large Numbers (PDF)" %}}
 
-[6b: Central Limit Theorem and the Law of Large Numbers (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading6b)
+{{% resource_link "4f6fd629-3f56-7248-eb59-c4f0817b6650" "6c: Appendix (PDF)" %}}
 
-[6c: Appendix (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading6c)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for 6a]({{< baseurl >}}/pages/readings/reading-questions-6a)
-
-[Reading Questions for 6b]({{< baseurl >}}/pages/readings/reading-questions-6b)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "bc2aecd3-3d98-1fe4-625f-a8a434a9dca7" "7a: Joint Distributions, Independence (PDF)" %}}
 
-[7a: Joint Distributions, Independence (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading7a)
+{{% resource_link "46d2ef60-a5fe-e044-3970-40002266a447" "7b: Covariance and Correlation (PDF)" %}}
 
-[7b: Covariance and Correlation (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading7b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for 7a]({{< baseurl >}}/pages/readings/reading-questions-7a)
-
-[Reading Questions for 7b]({{< baseurl >}}/pages/readings/reading-questions-7b)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "229c9ad2-f686-08d9-49e1-0b7d9943113f" "Class 8: Exam Review (PDF)" %}}
 
-[Class 8: Exam Review (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading8a)
+{{% resource_link "98a67cf3-cfb4-ef0b-9eec-c5b92111ff83" "Class 8: Exam Review Solutions (PDF)" %}}
 
-[Class 8: Exam Review Solutions (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading8b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings assigned
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **Statistics:** **Bayesian Inference**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "b0fb718b-2087-b997-b567-2f47b9abee82" "10a: Introduction to Statistics (PDF)" %}}
 
-[10a: Introduction to Statistics (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading10a)
+{{% resource_link "4a8de325-65eb-defb-b796-3b4ebda904b2" "10b: Maximum Likelihood Estimates (PDF)" %}}
 
-[10b: Maximum Likelihood Estimates (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading10b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for 10a]({{< baseurl >}}/pages/readings/reading-questions-10a)
-
-[Reading Questions for 10b]({{< baseurl >}}/pages/readings/reading-questions-10b)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C11
-{{< tdclose >}}
-{{< tdopen >}}
-[11: Bayesian Updating with Discrete Priors (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading11)
-{{< tdclose >}}
-{{< tdopen >}}
-[Reading Questions for 11]({{< baseurl >}}/pages/readings/reading-questions-11)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link "139aff13-3c83-fe5e-4335-f942b0ea353c" "11: Bayesian Updating with Discrete Priors (PDF)" %}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "9c06cd4e-126f-a96f-fdfc-9594eb9c0244" "12a: Bayesian Updating: Probabilistic Prediction (PDF)" %}}
 
-[12a: Bayesian Updating: Probabilistic Prediction (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading12a)
+{{% resource_link "65200614-be80-c2c1-efcd-0f9f3db8c0e7" "12b: Bayesian Updating: Odds (PDF)" %}}
 
-[12b: Bayesian Updating: Odds (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading12b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for 12a]({{< baseurl >}}/pages/readings/reading-questions-12a)
-
-[Reading Questions for 12b]({{< baseurl >}}/pages/readings/reading-questions-12b)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "8105cfc1-1eaa-2e4b-6cbd-4c29b4b281c0" "13a: Bayesian Updating with Continuous Priors (PDF)" %}}
 
-[13a: Bayesian Updating with Continuous Priors (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading13a)
+{{% resource_link "88ac3d61-a1df-cba8-11b9-045fd884d876" "13b: Notational Conventions (PDF)" %}}
 
-[13b: Notational Conventions (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading13b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for 13a]({{< baseurl >}}/pages/readings/reading-questions-13a)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "d6d722fe-f1c4-f36c-f252-5bfe0b4f905a" "14a: Beta Distributions (PDF)" %}}
 
-[14a: Beta Distributions (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading14a)
+{{% resource_link "24075fad-f310-d49f-4fe3-888a9369567c" "14b: Bayesian Updating with Continuous Data (PDF)" %}}
 
-[14b: Bayesian Updating with Continuous Data (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading14b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for 14a and 14b]({{< baseurl >}}/pages/readings/reading-questions-14a)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "f5cffb9e-b5ca-110c-d921-33292fc2a5a6" "15a: Conjugate Priors: Beta and Normal (PDF)" %}}
 
-[15a: Conjugate Priors: Beta and Normal (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading15a)
+{{% resource_link "110e55b2-0d78-8039-17b6-73b126792282" "15b: Choosing Priors (PDF)" %}}
 
-[15b: Choosing Priors (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading15b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for 15a]({{< baseurl >}}/pages/readings/reading-questions-15a)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C16
-{{< tdclose >}}
-{{< tdopen >}}
-[16: Probability Intervals (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading16)
-{{< tdclose >}}
-{{< tdopen >}}
-[Reading Questions for 16]({{< baseurl >}}/pages/readings/reading-questions-16)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link "94cc21c8-91fa-cbe3-5ca2-1edb603fbc18" "16: Probability Intervals (PDF)" %}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **Statistics:** **Frequentist Inference—Null Hypothesis Significance Testing (NHST)**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "8f068c9e-8c40-1b75-f954-2dcf7997e542" "17a: The Frequentist School of Statistics (PDF)" %}}
 
-[17a: The Frequentist School of Statistics (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading17a)
+{{% resource_link "11b300b5-2868-9cba-71f9-1588d6248143" "17b: Null Hypothesis Significance Testing I (PDF)" %}}
 
-[17b: Null Hypothesis Significance Testing I (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading17b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Reading Questions for 17b]({{< baseurl >}}/pages/readings/reading-questions-17b)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C18
-{{< tdclose >}}
-{{< tdopen >}}
-[18: Null Hypothesis Significance Testing II (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading18)
-{{< tdclose >}}
-{{< tdopen >}}
-[Reading Questions for 18]({{< baseurl >}}/pages/readings/reading-questions-18)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link "fb9bdc8e-a76d-cbb4-da3f-ba11a6eb0ab7" "18: Null Hypothesis Significance Testing II (PDF)" %}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C19
-{{< tdclose >}}
-{{< tdopen >}}
-[19: Null Hypothesis Significance Testing III (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading19)
-{{< tdclose >}}
-{{< tdopen >}}
-[Reading Questions for 19]({{< baseurl >}}/pages/readings/reading-questions-19)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link "3ede82f7-27a0-5cb3-e35b-01820dacff02" "19: Null Hypothesis Significance Testing III (PDF)" %}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C20
-{{< tdclose >}}
-{{< tdopen >}}
-[20: Comparison of Frequentist and Bayesian Inference (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading20)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link "76926c60-68c8-b18e-6ecb-48d649b15bfd" "20: Comparison of Frequentist and Bayesian Inference (PDF)" %}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings assigned
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **Statistics:** **Confidence Intervals; Regression**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C22
-{{< tdclose >}}
-{{< tdopen >}}
-[22: Confidence Intervals Based on Normal Data (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading22)
-{{< tdclose >}}
-{{< tdopen >}}
-[Reading Questions for 22]({{< baseurl >}}/pages/readings/reading-questions-22)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link "9c6c60e6-f23e-75f6-1f56-6e88b1b7a2fa" "22: Confidence Intervals Based on Normal Data (PDF)" %}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C23
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+{{% resource_link "820c5508-d524-26d5-11d4-e2e7c9d452b8" "23a: Confidence Intervals: Three Views (PDF)" %}}
 
-[23a: Confidence Intervals: Three Views (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading23a)
+{{% resource_link "e4ae022a-2a88-213d-dca8-9f6e161098c9" "23b: Confidence Intervals for the Mean of Non-normal Data (PDF)" %}}
 
-[23b: Confidence Intervals for the Mean of Non-normal Data (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading23b)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C24
-{{< tdclose >}}
-{{< tdopen >}}
-[24: Bootstrap Confidence Intervals (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading24)
-{{< tdclose >}}
-{{< tdopen >}}
-[Reading Questions for 24]({{< baseurl >}}/pages/readings/reading-questions-24)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link "77906546-c17e-e79e-b6e6-4194175e82ed" "24: Bootstrap Confidence Intervals (PDF)" %}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C25
-{{< tdclose >}}
-{{< tdopen >}}
-[25: Linear Regression (PDF)]({{< baseurl >}}/resources/mit18_05s14_reading25)
-{{< tdclose >}}
-{{< tdopen >}}
-[Reading Questions for 25]({{< baseurl >}}/pages/readings/reading-questions-25)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link "4165bb0e-a4e7-1690-9c1f-a78eec116ae7" "25: Linear Regression (PDF)" %}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 C26
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings assigned
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 C27
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings assigned
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

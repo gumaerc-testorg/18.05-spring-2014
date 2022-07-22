@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-05-introduction-to-probability-and-statistics-spring-2014/d5e467cee7e0a722ff1b05c6a84355f9_gallery4-5.jpg
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/d5e467cee7e0a722ff1b05c6a84355f9_gallery4-5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Each group worked at a different pace, and we always had to decide how
@@ -26,7 +26,17 @@ image_metadata:
   credit: Image courtesy of OCW.
   image-alt: An instructor points at a slide on a projector screen as seated students
     look on.
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWImage
+parent_title: Board Problems
+parent_type: CourseSection
+parent_uid: 3c62fbfe-ae8e-25cf-61a1-d89aaacf1f43
 resourcetype: Image
 title: Image 5
 uid: d5e467ce-e7e0-a722-ff1b-05c6a84355f9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

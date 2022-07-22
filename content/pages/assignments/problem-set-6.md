@@ -1,21 +1,30 @@
 ---
 content_type: page
+description: This section provides an interactive answer checker for a problem set.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fed85a98-064c-2e2a-4378-f3f7549df9b8
 title: Problem Set 6
 uid: b0eddea8-adf4-4425-4896-05d2eb589684
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Problem Set 6 Answer Checker
 ----------------------------
 
-Work on the assigned problems in the associated Problem Set PDF file, then use the problem set checker to find out if the answer was correct or incorrect. To check your answers put them in the appropriate box and click the 'Check' button. Every checker box can do arithmetic and calculate standard functions (see [calculator help]({{< baseurl >}}/pages/assignments/calculator-help)). If you give decimal answers, give them to at least 3 decimal places.
+Work on the assigned problems in the associated Problem Set PDF file, then use the problem set checker to find out if the answer was correct or incorrect. To check your answers put them in the appropriate box and click the 'Check' button. Every checker box can do arithmetic and calculate standard functions (see {{% resource_link 758ceee0-d290-5d7c-5072-7d458581a3b3 "calculator help" %}}). If you give decimal answers, give them to at least 3 decimal places.
 
 As you work you should have pencil and paper handy for calculations and thinking!
 
 Note: some questions ask for a formula. For the checker we ask you to plug a value into the formula. For your pset you still need to give the whole formula.
 
-//DEBUG PARAMETERS //Because we don't show solutions for pset checkers we use //this to give a showanswer button during the debugging phase var debugans = undefined; //release //var debugans = kDebugAnswer; //debug problemNumber = 0; wl("<h3>Calculator</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
+//DEBUG PARAMETERS //Because we don't show solutions for pset checkers we use //this to give a showanswer button during the debugging phase var debugans = undefined; //release //var debugans = kDebugAnswer; //debug problemNumber = 0; wl("\<h3>Calculator\</h3>"); writecalculator("psetcheckcalcid", "Calculate"); whr(kdivcol,kdivwid);
 
 //Problem 1 problemNumber++; wl(problemheader(problemNumber)); wl(''); var s; var partName, problemName, buttonLabel, answerArray, correct; s = "(a) Give the Bayes' factor for $H\_0$ vs. $H\_1$"; wl(s); wl(kp); partName = problemNumber + " (a)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.16458, buttonLabel, 0.005, debugans); wl(kp); s = "(b) " + knoonlinecheck; wl(s); wl(kp); wl(kbr); s = "(c) " + knoonlinecheck; wl(s); wl(kp); wl(kbr); s = "(d) For each of the priors give the value of the posterior pdf at $&theta; = 0.6$"; wl(s); wl(kp); s = "Prior (d.i):"; wl(s); wl(kbr); partName = problemNumber + " (d.i)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 5.584787, buttonLabel, 0.005, debugans); wl(kp); s = "Prior (d.ii):"; wl(s); wl(kp); partName = problemNumber + " (d.ii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 4.517611, buttonLabel, 0.005, debugans); wl(kp); s = "Prior (d.iii):"; wl(s); wl(kp); partName = problemNumber + " (d.iii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 1.477606, buttonLabel, 0.005, debugans); wl(kp); s = "Prior (d.iv):"; wl(s); wl(kp); partName = problemNumber + " (d.iv)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.0, buttonLabel, 0.0005, debugans); wl(kp); s = "Prior (d.v):"; wl(s); wl(kp); partName = problemNumber + " (d.v)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.001400, buttonLabel, 0.0005, debugans); wl(kp); s = "(e) Give the posterior probability of heads for each prior."; wl(s); wl(kp); s = "Prior (e.i):"; wl(s); wl(kp); partName = problemNumber + " (e.i)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.97097, buttonLabel, 0.005, debugans); wl(kp); s = "Prior (e.ii):"; wl(s); wl(kp); partName = problemNumber + " (e.ii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.96641, buttonLabel, 0.005, debugans); wl(kp); s = "Prior (e.iii):"; wl(s); wl(kp); partName = problemNumber + " (e.iii)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.94591, buttonLabel, 0.005, debugans); wl(kp); s = "Prior (e.iv):"; wl(s); wl(kp); partName = problemNumber + " (e.iv)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.80202, buttonLabel, 0.005, debugans); wl(kp); s = "Prior (e.v):"; wl(s); wl(kp); partName = problemNumber + " (e.v)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.29626, buttonLabel, 0.005, debugans); wl(kp); s = "(f) Give the posterior odds of $H\_1$ vs. $H\_0$ for each prior."; wl(s); wl(kp); s = "Prior (f.i):"; wl(s); wl(kp); partName = problemNumber + " (f.i)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 6.076, buttonLabel, 0.005, debugans); wl(kp); s = "Prior (f.iv):"; wl(s); wl(kp); partName = problemNumber + " (f.iv)"; problemName = "prob" + partName; buttonLabel = "Check problem " + partName; writeNumericBox(partName+"id", 0.00437, buttonLabel, 0.001, debugans); wl(kp); whr(kdivcol,kdivwid);
 
