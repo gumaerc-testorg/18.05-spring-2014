@@ -4,6 +4,7 @@ description: This is a special file that contains information regarding studio 4
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/dbd4484de6ce78d32975c47049d90a2c_studio4.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a special file that contains information regarding studio 4.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: 'Represents 3rd block of time: concept discussion.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: tl3.jpg

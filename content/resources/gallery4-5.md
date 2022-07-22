@@ -27,6 +27,7 @@ image_metadata:
   image-alt: An instructor points at a slide on a projector screen as seated students
     look on.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Board Problems
 parent_type: CourseSection

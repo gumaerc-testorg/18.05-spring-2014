@@ -18,6 +18,7 @@ image_metadata:
   image-alt: An instructor points at a projector screen showing a slide and addresses
     students, who are sitting at round tables.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Image 2-1

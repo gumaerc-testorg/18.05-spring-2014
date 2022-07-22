@@ -15,6 +15,7 @@ image_metadata:
     \ would you choose?,\u201D 3% of students chose the answer \u201Ccured 100%,\u201D\
     \ 45% chose \u201Ccured 95%,\u201D and 52% chose \u201Ccured 90%.\u201D"
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Concept Questions and Discussion
 parent_type: CourseSection

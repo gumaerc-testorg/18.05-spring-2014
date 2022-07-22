@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/20296d480c0ea5458f267602021470e4_MIT18_05S14_nhst.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection

@@ -22,6 +22,7 @@ image_metadata:
   image-alt: Small groups of students gather around whiteboards and work together
     on solving math problems.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Board Problems
 parent_type: CourseSection

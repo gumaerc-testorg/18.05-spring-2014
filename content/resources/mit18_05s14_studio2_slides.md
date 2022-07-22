@@ -5,6 +5,7 @@ description: This is a resource file that contains information regarding expecte
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/9d9fd53c579c3d3962fa823d3f931c2b_MIT18_05S14_studio2_slides.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a resource file that contains information regarding expected value.
-

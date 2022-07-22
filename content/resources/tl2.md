@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: 'Represents 2nd block of time: concept question.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: tl2.jpg

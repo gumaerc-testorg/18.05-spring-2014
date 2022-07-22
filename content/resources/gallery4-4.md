@@ -21,6 +21,7 @@ image_metadata:
   credit: Image courtesy of OCW.
   image-alt: An instructor and a student work together at a whiteboard.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Board Problems
 parent_type: CourseSection

@@ -20,6 +20,7 @@ image_metadata:
     on solving math problems. The students work directly on likelihood tables that
     are projected onto the whiteboards.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Board Problems
 parent_type: CourseSection

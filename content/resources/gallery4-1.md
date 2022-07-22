@@ -12,6 +12,7 @@ image_metadata:
   image-alt: An instructor stands amidst seated students. The screen on the wall shows
     a slide with a math problem for the students to work on.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Image 4-1

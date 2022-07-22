@@ -5,6 +5,7 @@ description: This is a resource file that contains information regarding birthda
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/0a30d639a3b9977d99f05c059eb69af3_MIT18_05S14_studio1slides.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a resource file that contains information regarding birthday matches.
-

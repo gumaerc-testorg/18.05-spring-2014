@@ -5,6 +5,7 @@ description: This is a resource file that contains information regarding NHST; c
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/2f99c9ba3eabf304f555d8dc481838ad_MIT18_05S14_studio9slides.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a resource file that contains information regarding NHST; comparing frequentist and bayesian methods.
-

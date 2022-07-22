@@ -4,6 +4,7 @@ description: This is a special file that contains information regarding studio 1
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/fc2399b184943fdec6659dd4f16ad9a3_studio1birthdays.r
 file_type: application/octet-stream
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a special file that contains information regarding studio 1 birthdays.
-

@@ -15,6 +15,7 @@ image_metadata:
   image-alt: An instructor balances a ruler with weights on his finger, as students
     look on.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Demonstrations
 parent_type: CourseSection

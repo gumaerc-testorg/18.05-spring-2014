@@ -6,6 +6,7 @@ file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/333c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a resource file that contains information regarding class 27 problems.
-

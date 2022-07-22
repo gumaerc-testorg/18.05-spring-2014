@@ -14,6 +14,7 @@ image_metadata:
   image-alt: Four students sitting at a table look up at a project screen that is
     showing a comic.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Image 1-1

@@ -12,6 +12,7 @@ image_metadata:
     are pictured, sitting around two round tables. Projector screens show a comic
     and a set of dice.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Introduction
 parent_type: CourseSection

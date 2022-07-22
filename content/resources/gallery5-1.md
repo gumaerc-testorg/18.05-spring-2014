@@ -20,6 +20,7 @@ image_metadata:
   image-alt: Students seated at round tables raise their hands. One projector screen
     shows a slide and one projector screen shows a set of dice.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Image 5-1

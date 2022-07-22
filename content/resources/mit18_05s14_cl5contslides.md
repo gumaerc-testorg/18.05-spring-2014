@@ -5,6 +5,7 @@ file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/707e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Slides
 parent_type: CourseSection

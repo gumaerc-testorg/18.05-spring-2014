@@ -4,6 +4,7 @@ description: This is a special file that contains information regarding studio 2
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/5df57f8dfbfd3c93c687d0462026c620_studio2outline.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a special file that contains information regarding studio 2.
-

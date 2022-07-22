@@ -13,6 +13,7 @@ image_metadata:
   image-alt: A multiple choice question is shown on a projector screen. Students use
     handheld clickers to submit their answers.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Image 1

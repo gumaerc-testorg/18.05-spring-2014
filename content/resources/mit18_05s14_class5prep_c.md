@@ -5,6 +5,7 @@ description: 'This is a resource file that contains information regarding class 
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/58b3986c5d4e1b73903edbe630743ec4_MIT18_05S14_class5prep_c.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Studio Resources
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a resource file that contains information regarding class 5: gallery of continuous variables; histograms.
-

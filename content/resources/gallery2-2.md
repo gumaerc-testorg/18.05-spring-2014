@@ -21,6 +21,7 @@ image_metadata:
     is captured by a ceiling-mounted camera and live-streamed on screens around the
     classroom. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture
 parent_type: CourseSection
