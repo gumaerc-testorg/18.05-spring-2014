@@ -15,9 +15,9 @@ video_metadata:
 ---
 ## Course Overview
 
-This page focuses on the course _18.05 Introduction to Probability and Statistics_ as it was taught by Dr. Jeremy Orloff and Dr. Jonathan Bloom in Spring 2014.
+This page focuses on the course *18.05 Introduction to Probability and Statistics* as it was taught by Dr. Jeremy Orloff and Dr. Jonathan Bloom in Spring 2014.
 
-_18.05_ is an elementary introduction to probability and statistics for students who are not math majors but will encounter statistics in their professional lives. Topics include basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.
+*18.05* is an elementary introduction to probability and statistics for students who are not math majors but will encounter statistics in their professional lives. Topics include basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.
 
 In Spring 2014, class sessions emphasized active learning, with students engaging in concept questions, discussions, board problems, and computation using R. Outside of class, students used the MITx platform for interactive reading questions and problem set checkers.
 
@@ -39,14 +39,14 @@ Most students who take the course plan to become physicians, engineers, or resea
 
 In the following pages, Dr. Orloff and Dr. Bloom discuss additional aspects of 18.05:
 
-- {{% resource_link 2d69a0de-0f58-08a2-3880-f4a28f594d72 "Course History" %}}
-- {{% resource_link e612a220-f47d-26cb-1df4-1379920545d8 "A Unified Curriculum with Bayesian Statistics" %}}
-- {{% resource_link c087d0ea-b9b0-a8e6-9867-02428a46325e "Targeted Readings and Online Reading Questions" %}}
-- {{% resource_link 47372cd3-e919-0e97-d65a-ddc960247454 "Problem Set Checkers" %}}
-- {{% resource_link a3b80720-d701-2da0-a420-760cbd667430 "Clicker Questions" %}}
-- {{% resource_link 3f220109-a2fa-c42b-47f0-b1be29e4f8ab "Trust in an Active Learning Classroom" %}}
-- {{% resource_link bcc7c9ac-7b81-71b2-3cc4-5d69d98f83cd "Co-Teaching" %}}
-- {{% resource_link 12233ebe-f550-072f-c1cb-c292891e2f81 "Challenges" %}}
+- {{% resource_link "2d69a0de-0f58-08a2-3880-f4a28f594d72" "Course History" %}}
+- {{% resource_link "e612a220-f47d-26cb-1df4-1379920545d8" "A Unified Curriculum with Bayesian Statistics" %}}
+- {{% resource_link "c087d0ea-b9b0-a8e6-9867-02428a46325e" "Targeted Readings and Online Reading Questions" %}}
+- {{% resource_link "47372cd3-e919-0e97-d65a-ddc960247454" "Problem Set Checkers" %}}
+- {{% resource_link "a3b80720-d701-2da0-a420-760cbd667430" "Clicker Questions" %}}
+- {{% resource_link "3f220109-a2fa-c42b-47f0-b1be29e4f8ab" "Trust in an Active Learning Classroom" %}}
+- {{% resource_link "bcc7c9ac-7b81-71b2-3cc4-5d69d98f83cd" "Co-Teaching" %}}
+- {{% resource_link "12233ebe-f550-072f-c1cb-c292891e2f81" "Challenges" %}}
 
 {{< anchor "gallery" >}}{{< /anchor >}}{{< anchor "dayin" >}}{{< /anchor >}}
 
@@ -56,9 +56,9 @@ Class sessions were extremely active and student-centered, with a mix of lecture
 
 {{< anchor "Video" >}}{{< /anchor >}}
 
-{{< resource b09c96b1-1574-9aa1-0e37-c1edf840eb0f >}}
+{{< resource uuid="b09c96b1-1574-9aa1-0e37-c1edf840eb0f" >}}
 
-_This video features the happenings of a full 18.05 class session._
+*This video features the happenings of a full 18.05 class session.*
 
 ## Curriculum Information
 
@@ -70,7 +70,7 @@ Calculus I GIR ![](/images/educator/icon-question-gir.png). The following versio
 
 - REST ![](/images/educator/icon-question-rest.png)
 - Can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/)
-- Can be used to satisfy the probability and statistics requirement for a [Bachelor of Science in Brain and Cognitive Sciences](https://bcs.mit.edu/academic-program/undergraduate)
+- Can be used to satisfy the probability and statistics requirement for a [Bachelor of Science in Brain and Cognitive Sciences](https://bcs.mit.edu/academic-program/course-9-degree-chart)
 
 ### Offered
 
@@ -100,7 +100,7 @@ Mostly juniors, some sophomores, some seniors.
 
 ### Breakdown by Major
 
-The students enrolled this semester were primarily life sciences majors. There were a fair number of students who planned to become doctors, researchers, or engineers. Math majors who are interested in probability and statistics tend to take [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014). Electrical engineering and computer science majors who are interested in probability and statistics tend to take [_6.041 Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013).
+The students enrolled this semester were primarily life sciences majors. There were a fair number of students who planned to become doctors, researchers, or engineers. Math majors who are interested in probability and statistics tend to take [*18.440 Probability and Random Variables*](/courses/18-440-probability-and-random-variables-spring-2014). Electrical engineering and computer science majors who are interested in probability and statistics tend to take [*6.041 Probabilistic Systems Analysis and Applied Probability*](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013).
 
 ### Typical Student Background
 
@@ -122,7 +122,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 - Two sessions per week, each lasting 1.5 hours; 27 sessions total
 - Attended by all students
-- Included brief lectures, demonstrations, and frequent opportunities for student participation: concept questions, discussion questions, board problems. These time types are described in image galleries linked from the timeline key for {{% resource_link 1b685882-0e39-dbc6-ba03-dc47858871bd "A Day in 18.05" "#dayin" %}}. 
+- Included brief lectures, demonstrations, and frequent opportunities for student participation: concept questions, discussion questions, board problems. These time types are described in image galleries linked from the timeline key for {{% resource_link "1b685882-0e39-dbc6-ba03-dc47858871bd" "A Day in 18.05" "#dayin" %}}. 
 
 ### R Studio
 
@@ -134,9 +134,9 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ### Out of Class
 
-- {{% resource_link 579c055a-ccb4-eb7e-bb6b-f294146b45a5 "Readings" %}} and {{% resource_link c087d0ea-b9b0-a8e6-9867-02428a46325e "reading questions" %}} before each class meeting
-- Nine {{% resource_link fed85a98-064c-2e2a-4378-f3f7549df9b8 "problem sets" %}}, due on non-class days so that students wouldn't forego class readings in order to complete problem sets.
-- Preparation for {{% resource_link ad95d694-8a5a-21e8-d68c-2ed80b877e38 "exams" %}}
+- {{% resource_link "579c055a-ccb4-eb7e-bb6b-f294146b45a5" "Readings" %}} and {{% resource_link "c087d0ea-b9b0-a8e6-9867-02428a46325e" "reading questions" %}} before each class meeting
+- Nine {{% resource_link "fed85a98-064c-2e2a-4378-f3f7549df9b8" "problem sets" %}}, due on non-class days so that students wouldn't forego class readings in order to complete problem sets.
+- Preparation for {{% resource_link "ad95d694-8a5a-21e8-d68c-2ed80b877e38" "exams" %}}
 - Optional office hours on Thursdays, Fridays, Sundays, and Mondays
 
 {{< anchor "roles" >}}{{< /anchor >}}
