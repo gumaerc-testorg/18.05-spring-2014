@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/29cbc996681e82af76bfef6e5fcf4557_figc7-16.png
+file_size: 4738
 file_type: image/png
 image_metadata:
   caption: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding exam 1 practice
   questions 1.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/1a8929788f327e358603adb327cc541e_MIT18_05S14_Prac_Exam1a.pdf
+file_size: 192217
 file_type: application/pdf
 learning_resource_types:
 - Exams

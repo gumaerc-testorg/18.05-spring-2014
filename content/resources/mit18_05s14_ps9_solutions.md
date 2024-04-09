@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding solutions
   to problem set 9.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/d62a6abc1e89cbcf9ad8280465a51aa7_MIT18_05S14_ps9_solutions.pdf
+file_size: 703952
 file_type: application/pdf
 learning_resource_types:
 - Assignments

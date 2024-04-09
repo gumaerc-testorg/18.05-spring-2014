@@ -60,9 +60,9 @@ Probability basics
 
 {{% resource_link 245b5fa3-c947-b16a-7c47-716f0cd96585 "2: Probability: Terminology and Examples (PDF)" %}}
 
-[R Tutorial 1A: Basics](./resolveuid/654a858c5c3ed17ec925cc382f32bb01)
+{{% resource_link "ea2ab54b-606a-47dd-a91a-1b0b7743732d" "R Tutorial 1A: Basics" %}}
 
-[R Tutorial 1B: Random Numbers](./resolveuid/660c528c0d223f522a208c81128f11e7)
+{{% resource_link "aaf9bdcf-8a26-4c77-9793-47a67e6bc8ba" "R Tutorial 1B: Random Numbers" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 

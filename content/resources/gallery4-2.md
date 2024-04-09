@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/2acbdfd123c90e6c7f8b6112fe72cd4c_gallery4-2.jpg
+file_size: 63064
 file_type: image/jpeg
 image_metadata:
   caption: "We had the students work on the whiteboards in groups of three. The physical\

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/4f0443556eed1ef14440d5d1b4a1b220_DyuQsaqXhwU.pdf
+file_size: 97654
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

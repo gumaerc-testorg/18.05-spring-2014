@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding class 5 cont.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/71b08b16c1065b3b3d876595f6b173ee_MIT18_05S14_cl5cont_slides.pdf
+file_size: 273132
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding class 24.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/cc69f4c98343619f004b438dbe40872a_MIT18_05S14_class24-slde-a.pdf
+file_size: 245002
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

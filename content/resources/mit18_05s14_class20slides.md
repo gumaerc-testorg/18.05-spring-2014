@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding comparison
   of bayesian and frequentist inference.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/72064f751931af4da3bf43b15352795c_MIT18_05S14_class20slides.pdf
+file_size: 187354
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

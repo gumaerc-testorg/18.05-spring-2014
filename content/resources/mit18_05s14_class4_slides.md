@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding class 4.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/6448395269457c2ca743676f4a9a0783_MIT18_05S14_class4_slides.pdf
+file_size: 381875
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

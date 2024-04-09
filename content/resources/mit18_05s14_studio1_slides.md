@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding birthday
   matches.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/a0e73f587d4bfd20a26147c13c66eeaa_MIT18_05S14_studio1_slides.pdf
+file_size: 604852
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
