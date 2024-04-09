@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding frequentist
   methods; NHST.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/c1ca9a217012b341b2935c1959aec35c_MIT18_05S14_class17slides.pdf
+file_size: 1135653
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

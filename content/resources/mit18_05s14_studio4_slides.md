@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding covariance,
   correlation, CLT.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/2bf8ef7cfe3f500704114e7ed9330acb_MIT18_05S14_studio4_slides.pdf
+file_size: 812383
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

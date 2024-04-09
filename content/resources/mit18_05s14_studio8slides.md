@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding rejection
   regions; NHST
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/c875906af4822a9bb3fed6ffa98a9c98_MIT18_05S14_studio8slides.pdf
+file_size: 657081
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding studio 5.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/8547b5d6707a3d9cb3a88886e8e18847_studio5outline.txt
+file_size: 1728
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

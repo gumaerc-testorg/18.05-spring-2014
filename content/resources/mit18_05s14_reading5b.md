@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a resource file that contains information regarding reading
   5b: continuous random variables.'
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/1f88c7c765d2532fd57d8ee719a751b3_MIT18_05S14_Reading5b.pdf
+file_size: 268179
 file_type: application/pdf
 learning_resource_types:
 - Readings

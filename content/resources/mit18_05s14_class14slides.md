@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a resource file that contains information regarding beta distributions:
   continuous data.'
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/39f7b20f0588964be4aa4bb6864a4a93_MIT18_05S14_class14slides.pdf
+file_size: 498216
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

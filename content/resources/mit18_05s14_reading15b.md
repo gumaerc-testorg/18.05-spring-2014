@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource file contains information regarding reading 15b: choosing
   priors.'
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/110e55b20d78803917b673b126792282_MIT18_05S14_Reading15b.pdf
+file_size: 245894
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource file contains information regarding reading 5a: variance
   of discrete random variables.'
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/b09f8047e25079e59d379a4d9782b621_MIT18_05S14_Reading5a.pdf
+file_size: 233488
 file_type: application/pdf
 learning_resource_types:
 - Readings

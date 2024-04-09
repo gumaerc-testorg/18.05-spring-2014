@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding class 26
   solutions.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/96eac0bd06d66e3d2e3ae26d2e3fe37f_MIT18_05S14_class26-sol.pdf
+file_size: 314717
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/707e918d091ac513d8a9a515997e56dd_MIT18_05S14_cl5contslides.pdf
+file_size: 239782
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding class 21.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/fc8aff4d6b41f21c4656e951f806258d_MIT18_05S14_class21-slides.pdf
+file_size: 256176
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
