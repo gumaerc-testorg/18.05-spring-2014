@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding class 23.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/e6651c396a104efb2892cef60d96200d_MIT18_05S14_class23-slde-a.pdf
+file_size: 262156
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

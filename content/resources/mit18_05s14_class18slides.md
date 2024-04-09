@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a resource file that contains information regarding NHST II:
   significance level, power, t-tests.'
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/0865f7732228ef9f123148f11aedcd61_MIT18_05S14_class18slides.pdf
+file_size: 763069
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

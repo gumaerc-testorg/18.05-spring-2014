@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding class 25.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/c352da676eb4c72d00d59215e6924cce_MIT18_05S14_class25-slds-a.pdf
+file_size: 308039
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

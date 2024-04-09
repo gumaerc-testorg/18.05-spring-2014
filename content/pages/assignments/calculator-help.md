@@ -50,4 +50,4 @@ Try the following:
 Much More!
 ----------
 
-The features are quite extensive. See [Mathjs documentation](https://github.com/josdejong/mathjs/tree/master/docs/index.md).
+The features are quite extensive. See {{% resource_link "e24d3a98-cf4a-43f7-b162-016b70037943" "Mathjs documentation" %}}.

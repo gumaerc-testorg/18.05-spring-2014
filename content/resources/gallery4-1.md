@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/32319eba4765765b81e984ddb4201848_gallery4-1.jpg
+file_size: 44007
 file_type: image/jpeg
 image_metadata:
   caption: We usually projected the problem statements on the screens. We generally

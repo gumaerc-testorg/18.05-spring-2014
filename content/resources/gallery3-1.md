@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/06b6df4142b6b51c7d0d65f8a8d52466_gallery3-1.jpg
+file_size: 54435
 file_type: image/jpeg
 image_metadata:
   caption: In each class, we generally aimed to have two or three concept questions.

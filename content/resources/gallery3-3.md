@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/c3d7386631570f3cae65de0644e5efde_gallery3-3.jpg
+file_size: 55846
 file_type: image/jpeg
 image_metadata:
   caption: We often discussed these questions as a whole class in order to identify

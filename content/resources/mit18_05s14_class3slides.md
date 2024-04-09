@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding conditional
   probability, bayes' theorem.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/5d2c06a685dd91abade2ba8bc2dd97d4_MIT18_05S14_class3slides.pdf
+file_size: 413736
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

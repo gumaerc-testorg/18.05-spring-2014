@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/858cf45da94a2a3c06df15efde1d60e3_gallery1-2.jpg
+file_size: 114594
 file_type: image/jpeg
 image_metadata:
   caption: Class began with announcements, addenda from the previous class meeting,

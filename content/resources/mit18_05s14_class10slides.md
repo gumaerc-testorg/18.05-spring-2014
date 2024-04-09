@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding introduction
   to statistics; maximum likelihood estimates.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/57f41e99bfd81ca01a8046efc904eaf2_MIT18_05S14_class10slides.pdf
+file_size: 220417
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

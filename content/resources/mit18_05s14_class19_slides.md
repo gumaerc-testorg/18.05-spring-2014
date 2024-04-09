@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding class 19.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/207a19ed30f8fde3b10aff84c64e2f60_MIT18_05S14_class19_slides.pdf
+file_size: 326695
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

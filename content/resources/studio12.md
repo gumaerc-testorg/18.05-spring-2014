@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding studio 12.
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/826b085d8474ab7afe7e1ec4e0d9ed4c_studio12.zip
+file_size: 270026
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

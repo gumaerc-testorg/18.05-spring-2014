@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/d5e467cee7e0a722ff1b05c6a84355f9_gallery4-5.jpg
+file_size: 56886
 file_type: image/jpeg
 image_metadata:
   caption: 'Each group worked at a different pace, and we always had to decide how
