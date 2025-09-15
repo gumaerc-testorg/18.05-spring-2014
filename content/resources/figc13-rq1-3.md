@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/c1e371538b8b44a07bfe2c8f9d46b90c_figc13-rq1-3.png
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/c1e371538b8b44a07bfe2c8f9d46b90c_figc13-rq1-3.png
 file_size: 7131
 file_type: image/png
 image_metadata:

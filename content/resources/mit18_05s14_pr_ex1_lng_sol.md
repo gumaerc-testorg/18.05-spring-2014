@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding long list.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/b1a8268a1730c8dd0746b67a6a341eee_MIT18_05S14_Pr_Ex1_Lng_Sol.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/b1a8268a1730c8dd0746b67a6a341eee_MIT18_05S14_Pr_Ex1_Lng_Sol.pdf
 file_size: 374082
 file_type: application/pdf
 learning_resource_types:

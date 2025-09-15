@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding solutions
   to problem set 2.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/8c8924a12f84f1817546f557090eb6bf_MIT18_05S14_ps2_solutions.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/8c8924a12f84f1817546f557090eb6bf_MIT18_05S14_ps2_solutions.pdf
 file_size: 690013
 file_type: application/pdf
 learning_resource_types:

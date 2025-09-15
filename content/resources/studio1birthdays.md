@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding studio 1 birthdays.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/fc2399b184943fdec6659dd4f16ad9a3_studio1birthdays.r
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/fc2399b184943fdec6659dd4f16ad9a3_studio1birthdays.r
 file_size: 1228
 file_type: application/octet-stream
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding bayesian
   updating.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/413d1be9b4ac520d3d8d3e39f4a8f9b5_MIT18_05S14_studio5_slides.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/413d1be9b4ac520d3d8d3e39f4a8f9b5_MIT18_05S14_studio5_slides.pdf
 file_size: 575389
 file_type: application/pdf
 learning_resource_types: []

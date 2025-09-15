@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/ea3ba02030e46bfc7304a8e850ca0edd_MIT18_05S14_distributTable.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/ea3ba02030e46bfc7304a8e850ca0edd_MIT18_05S14_distributTable.pdf
 file_size: 181370
 file_type: application/pdf
 learning_resource_types: []

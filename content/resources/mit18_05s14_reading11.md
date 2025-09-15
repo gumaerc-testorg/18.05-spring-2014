@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding reading
   11: bayesian updating with discrete priors.'
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/139aff133c83fe5e4335f942b0ea353c_MIT18_05S14_Reading11.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/139aff133c83fe5e4335f942b0ea353c_MIT18_05S14_Reading11.pdf
 file_size: 198323
 file_type: application/pdf
 learning_resource_types:

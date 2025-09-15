@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding solutions
   to final exam.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/f183a74ae540f64e1bd9ff1172bae7e4_MIT18_05S14_Exam_Final_Sol.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/f183a74ae540f64e1bd9ff1172bae7e4_MIT18_05S14_Exam_Final_Sol.pdf
 file_size: 188510
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding reading
   19: null hypothesis significance testing III.'
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/3ede82f727a05cb3e35b01820dacff02_MIT18_05S14_Reading19.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/3ede82f727a05cb3e35b01820dacff02_MIT18_05S14_Reading19.pdf
 file_size: 384701
 file_type: application/pdf
 learning_resource_types:

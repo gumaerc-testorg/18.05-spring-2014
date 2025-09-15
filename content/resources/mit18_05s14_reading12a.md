@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding reading
   12a: bayesian updating: probabilistic prediction.'
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/9c06cd4e126fa96ffdfc9594eb9c0244_MIT18_05S14_Reading12a.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/9c06cd4e126fa96ffdfc9594eb9c0244_MIT18_05S14_Reading12a.pdf
 file_size: 178301
 file_type: application/pdf
 learning_resource_types:

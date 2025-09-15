@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding review for
   exam 1.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/953d6305fdce3cec67c7855ec9b944d2_MIT18_05S14_class8slides.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/953d6305fdce3cec67c7855ec9b944d2_MIT18_05S14_class8slides.pdf
 file_size: 219947
 file_type: application/pdf
 learning_resource_types:

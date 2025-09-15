@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding NHST; comparing
   frequentist and bayesian methods.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/2e1d60696fea316382b2ca9b0998f83a_MIT18_05S14_studio9_slides.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/2e1d60696fea316382b2ca9b0998f83a_MIT18_05S14_studio9_slides.pdf
 file_size: 644278
 file_type: application/pdf
 learning_resource_types: []

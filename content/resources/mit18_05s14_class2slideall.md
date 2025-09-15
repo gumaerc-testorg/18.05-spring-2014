@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding reading for
   class 2.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/7af56cb7689b87c041ff6abea26767ab_MIT18_05S14_class2slideall.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/7af56cb7689b87c041ff6abea26767ab_MIT18_05S14_class2slideall.pdf
 file_size: 413522
 file_type: application/pdf
 learning_resource_types:

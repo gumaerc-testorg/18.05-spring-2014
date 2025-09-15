@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related problem set 6 post.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/c8acbe4f68fb220869a4f916bfbae0ad_ps6-post.r
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/c8acbe4f68fb220869a4f916bfbae0ad_ps6-post.r
 file_size: 1299
 file_type: application/octet-stream
 learning_resource_types:

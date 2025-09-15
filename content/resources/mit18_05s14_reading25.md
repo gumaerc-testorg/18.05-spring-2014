@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource file contains information regarding reading for 25: linear
   regression.'
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/4165bb0ea4e716909c1fa78eec116ae7_MIT18_05S14_Reading25.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/4165bb0ea4e716909c1fa78eec116ae7_MIT18_05S14_Reading25.pdf
 file_size: 299198
 file_type: application/pdf
 learning_resource_types:

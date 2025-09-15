@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding bootstrapping;
   linear regression. '
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/2cd74f5d5a1f92026e67a06a6492a0bd_MIT18_05S14_studio12_slides.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/2cd74f5d5a1f92026e67a06a6492a0bd_MIT18_05S14_studio12_slides.pdf
 file_size: 736251
 file_type: application/pdf
 learning_resource_types: []

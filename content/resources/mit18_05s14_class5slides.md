@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding variance,
   continuous random variables.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/7622467705b92974d1a6b658b42e83a3_MIT18_05S14_class5slides.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/7622467705b92974d1a6b658b42e83a3_MIT18_05S14_class5slides.pdf
 file_size: 360525
 file_type: application/pdf
 learning_resource_types:

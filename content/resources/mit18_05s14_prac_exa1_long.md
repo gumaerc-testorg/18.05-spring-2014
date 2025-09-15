@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding long list.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/be09142a58bb780dee7502115ee1f4b9_MIT18_05S14_Prac_Exa1_Long.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/be09142a58bb780dee7502115ee1f4b9_MIT18_05S14_Prac_Exa1_Long.pdf
 file_size: 290892
 file_type: application/pdf
 learning_resource_types:

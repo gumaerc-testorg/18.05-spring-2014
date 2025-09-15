@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource file contains information regarding reading 6a: expectation,
   variance and standard deviation for continuous random variables.'
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/c7bd52cd1c881d4b32bbe3cfb55f58d7_MIT18_05S14_Reading6a.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/c7bd52cd1c881d4b32bbe3cfb55f58d7_MIT18_05S14_Reading6a.pdf
 file_size: 275082
 file_type: application/pdf
 learning_resource_types:

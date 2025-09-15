@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding discrete
   random variables, expectation.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/d858f2e13b87e5e9ae637985a2440b6e_MIT18_05S14_class4slides.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/d858f2e13b87e5e9ae637985a2440b6e_MIT18_05S14_class4slides.pdf
 file_size: 330899
 file_type: application/pdf
 learning_resource_types:

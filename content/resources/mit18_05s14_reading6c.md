@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource file contains information regarding reading 6c: appendix.'
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/4f6fd6293f567248eb59c4f0817b6650_MIT18_05S14_Reading6c.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/4f6fd6293f567248eb59c4f0817b6650_MIT18_05S14_Reading6c.pdf
 file_size: 166432
 file_type: application/pdf
 learning_resource_types:

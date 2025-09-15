@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding linear regression.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/ad4738dd0af751bd8e72e72db511f1db_MIT18_05S14_class25slides.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/ad4738dd0af751bd8e72e72db511f1db_MIT18_05S14_class25slides.pdf
 file_size: 640939
 file_type: application/pdf
 learning_resource_types:

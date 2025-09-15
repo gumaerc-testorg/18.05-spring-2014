@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding class 21
   solutions.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/65af1b49b5b1d44dff615fd1b35717a7_MIT18_05S14_class21-sol.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/65af1b49b5b1d44dff615fd1b35717a7_MIT18_05S14_class21-sol.pdf
 file_size: 345024
 file_type: application/pdf
 learning_resource_types:

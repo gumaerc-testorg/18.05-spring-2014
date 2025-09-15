@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains exam 1 practice questions II.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/7d8c6b225189738d3236f0b98c46a2ff_MIT18_05S14_Prac_Exa1b.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/7d8c6b225189738d3236f0b98c46a2ff_MIT18_05S14_Prac_Exa1b.pdf
 file_size: 193604
 file_type: application/pdf
 learning_resource_types:

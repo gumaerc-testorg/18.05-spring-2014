@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding studio 8.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/b44e2239cd2ce9369cf09dc2b7e04ec6_studio8.zip
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/b44e2239cd2ce9369cf09dc2b7e04ec6_studio8.zip
 file_size: 2828
 file_type: application/zip
 learning_resource_types: []

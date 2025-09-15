@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding studio 1.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/c056d700886880f9b42ca44af9707bc1_studio1outline.txt
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/c056d700886880f9b42ca44af9707bc1_studio1outline.txt
 file_size: 2348
 file_type: text/plain
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource file contains information regarding reading 4b: discrete
   random variables: expected value.'
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/79a290ef627e8f975fcbf93ff869d8ec_MIT18_05S14_Reading4b.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/79a290ef627e8f975fcbf93ff869d8ec_MIT18_05S14_Reading4b.pdf
 file_size: 238710
 file_type: application/pdf
 learning_resource_types:

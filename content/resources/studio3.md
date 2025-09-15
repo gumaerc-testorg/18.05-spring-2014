@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding studio 3.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/8f2b6fc271f083a8e41eaf357520504c_studio3.zip
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/8f2b6fc271f083a8e41eaf357520504c_studio3.zip
 file_size: 1719
 file_type: application/zip
 learning_resource_types: []

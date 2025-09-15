@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding class 10.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/de20c32eb561c54431691a1af97b25cc_MIT18_05S14_class10_slides.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/de20c32eb561c54431691a1af97b25cc_MIT18_05S14_class10_slides.pdf
 file_size: 301224
 file_type: application/pdf
 learning_resource_types:

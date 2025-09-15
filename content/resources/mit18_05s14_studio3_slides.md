@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding gallery of
   continuous variables; histograms.
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2014/0c9cedf48eb79532d8b9d307ce75825b_MIT18_05S14_studio3_slides.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2014/0c9cedf48eb79532d8b9d307ce75825b_MIT18_05S14_studio3_slides.pdf
 file_size: 702832
 file_type: application/pdf
 learning_resource_types: []
