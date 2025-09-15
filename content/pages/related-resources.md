@@ -25,7 +25,7 @@ R is an industrial strength open source statistical package. We'll use it for si
 
 R takes 2 minutes to install. Here are the steps:
 
-- Go to {{% resource_link "a3238861-c39e-461e-98a1-e25919d1da0b" "the main page of the R project" %}}. Click the 'CRAN' link on the left. Then choose any of the mirror sites.
+- Go to [the main page of the R project](http://www.r-project.org). Click the 'CRAN' link on the left. Then choose any of the mirror sites.
 - Download and install.
 - On the Mac download the R-3.02.pkg. You double-click to install.
 - On Windows just follow the instructions.
@@ -33,7 +33,7 @@ R takes 2 minutes to install. Here are the steps:
 
 We will also be using R-studio which provides an integrated environment for working in R. It is also a 2 minute install. Here are the steps.
 
-- Go to the {{% resource_link "bc07ddb1-b89e-4a23-a902-03b300952ad0" "Download RStudio page" %}} and choose the version for your computer (probably the one 'recommended for your system')
+- Go to the [Download RStudio page](http://www.rstudio.com/ide/download/desktop) and choose the version for your computer (probably the one 'recommended for your system')
 - Download and install.
 - On the Mac open the downloaded .dmg file and copy the R-studio application to your Applications folder.
 - On Windows install from the downloaded .exe.
@@ -42,8 +42,8 @@ We will also be using R-studio which provides an integrated environment for work
 Typically, R is used to make calculations. These tables are for exams when students do not have computers or calculators.
 
 - [18.05 R Code File Collection](/ans7870/18/18.05/s14/r-code/rstuff.html)
-- {{% resource_link "0b6ec070-569d-460f-a4c0-02b237f20467" "Probability distributions" %}}
-- {{% resource_link "138f4558-1038-4c28-a7cf-ec0419717f85" "Beta distribution" %}}
-- {{% resource_link "5d11aabf-0d7d-4ec8-82b3-4b6d7f67e1f1" "Student t distribution" %}}
-- {{% resource_link "3eae213c-fbf5-4f04-b8b1-5a42d0003700" "Confidence intervals" %}}
-- {{% resource_link "ea71c0b3-990e-48e9-ba67-a92a4f991fd7" "Linear regression" %}}
+- [Probability distributions](http://mathlets.org/mathlets/probability-distributions/)
+- [Beta distribution](http://mathlets.org/mathlets/beta-distribution/)
+- [Student t distribution](http://mathlets.org/mathlets/t-distribution/)
+- [Confidence intervals](http://mathlets.org/mathlets/confidence-intervals/)
+- [Linear regression](http://mathlets.org/mathlets/linear-regression/)
