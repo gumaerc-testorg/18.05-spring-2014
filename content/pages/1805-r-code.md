@@ -7,8 +7,8 @@ uid: cf21d8e6-ac9f-4ceb-8ced-ce50df7e48d7
 ---
 ### R and RStudio
 
-[Home of the R project,](https://www.r-project.org/)      
-[Get RStudio here.](https://www.rstudio.com/ide/download/desktop)
+{{% resource_link "4696a054-f457-49d6-aee5-bbaafaba0e2d" "Home of the R project," %}}      
+{{% resource_link "f4c23c6c-92f7-4127-9253-519d1f221135" "Get RStudio here." %}}
 
 ### Tutorials
 
