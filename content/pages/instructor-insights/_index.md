@@ -69,8 +69,8 @@ Calculus I GIR ![](/images/educator/icon-question-gir.png). The following versio
 ### Requirements Satisfied
 
 - REST ![](/images/educator/icon-question-rest.png)
-- Can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/)
-- Can be used to satisfy the probability and statistics requirement for a [Bachelor of Science in Brain and Cognitive Sciences](https://bcs.mit.edu/academic-program/course-9-degree-chart)
+- Can be applied toward a {{% resource_link "86db2d2a-5f11-4b53-85c8-232688b1394e" "Bachelor of Science in Mathematics" %}}
+- Can be used to satisfy the probability and statistics requirement for a {{% resource_link "38b65bbd-cf7d-4a30-9d01-0957883945f0" "Bachelor of Science in Brain and Cognitive Sciences" %}}
 
 ### Offered
 
@@ -128,7 +128,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 - One session per week, lasting 1.5 hours; 10 sessions total.
 - No new math content was introduced.
-- Students used [R, a free statistical software package](http://www.r-project.org), via the user interface [RStudio](http://www.rstudio.com), to apply statistical tools, visualize data, and explore concepts through simulations.
+- Students used {{% resource_link "da4254bc-39cb-4c04-b981-35597cca90df" "R, a free statistical software package" %}}, via the user interface {{% resource_link "fa92d91d-147b-469b-888a-1329ad7faba0" "RStudio" %}}, to apply statistical tools, visualize data, and explore concepts through simulations.
 - Real-world examples were frequently incorporated.
 - Students used and modified pre-written code to build their conceptual understanding of the week’s topics.
 
