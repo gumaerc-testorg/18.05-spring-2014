@@ -24,7 +24,7 @@ We first taught the course in Spring 2012. When we inherited the course, it was 
 
 The math department felt strongly that we needed to devote renewed attention to teaching probability and statistics to students who are not mathematics majors but will need to use and understand statistics in their professional lives. Many such students had been taking statistics courses run by other departments or [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2011/), which is a more theoretical course that doesn’t cover statistics.
 
-Over the past two years (2012–2014), with support from a grant from the {{% resource_link "ac6106de-44fa-452e-94ce-af7844fc9b51" "Davis Educational Foundation" %}}, we have converted the course to a flipped classroom with active learning. The syllabus has evolved significantly, most notably with a new unit on Bayesian inference.
+Over the past two years (2012–2014), with support from a grant from the [Davis Educational Foundation](http://www.davisfoundations.org/site/educational.asp), we have converted the course to a flipped classroom with active learning. The syllabus has evolved significantly, most notably with a new unit on Bayesian inference.
 
 Converting to a Flipped Classroom with Active Learning
 ------------------------------------------------------
@@ -60,7 +60,7 @@ We did find it to be less work to teach the class once we were in the classroom.
 Flipping the Dice: An Active-Learning, Technology-Enhanced, Up-to-Date 18.05
 ----------------------------------------------------------------------------
 
-On April 7, 2014, Dr. Orloff and Dr. Bloom gave the following talk on the transformation of 18.05 at the {{% resource_link "5fa56476-c219-4dd2-8fcd-5a78ee2fb9c7" "HHMI Education Group Seminar" %}}. A summary is posted on the {{% resource_link "de197c4e-e18a-4cf7-aea7-2b64491144c9" "OEIT website" %}}.
+On April 7, 2014, Dr. Orloff and Dr. Bloom gave the following talk on the transformation of 18.05 at the [HHMI Education Group Seminar](http://educationgroup.mit.edu/HHMIEducationGroup/?p=4372). A summary is posted on the [OEIT website](http://oeit.mit.edu/blog/flipping-dice).
 
 {{< resource 3befc92b-56ff-e742-ed3b-2371af3df269 >}}
 
