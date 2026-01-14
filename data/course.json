@@ -38,11 +38,12 @@
     "website": "18-05-introduction-to-probability-and-statistics-spring-2014"
   },
   "learning_resource_types": [
-    "Problem Sets with Solutions",
     "Exams with Solutions",
     "Lecture Notes",
     "Instructor Insights",
-    "Other Video"
+    "Other Video",
+    "Problem Sets",
+    "Problem Set Solutions"
   ],
   "site_uid": "fe78b94b-dc98-4449-bdce-5f0f2a65dc98",
   "site_short_id": "18.05-spring-2014",
